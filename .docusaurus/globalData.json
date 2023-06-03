@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/portfolio/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/portfolio/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Developer/Assistant-SDK/developer-account",
+              "path": "/portfolio/docs/Developer/Assistant-SDK/developer-account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Assistant-SDK/hardware-and-network",
+              "path": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Assistant-SDK/install-sdk",
+              "path": "/portfolio/docs/Developer/Assistant-SDK/install-sdk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Assistant-SDK/register-device",
+              "path": "/portfolio/docs/Developer/Assistant-SDK/register-device",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Assistant-SDK/run-sample-code",
+              "path": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Git/advanced-git",
+              "path": "/portfolio/docs/Developer/Git/advanced-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Git/git-setup",
+              "path": "/portfolio/docs/Developer/Git/git-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Git/gitlab",
+              "path": "/portfolio/docs/Developer/Git/gitlab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/Git/master-git",
+              "path": "/portfolio/docs/Developer/Git/master-git",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Developer/release-notes",
+              "path": "/portfolio/docs/Developer/release-notes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/portfolio/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product/2 Prime Day Strategies used by Top Performers in 2021",
+              "path": "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product/cross-category-ads",
+              "path": "/portfolio/docs/Product/cross-category-ads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Product/multichannel-investment",
+              "path": "/portfolio/docs/Product/multichannel-investment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Specifications/HBO-SDR_Spec",
+              "path": "/portfolio/docs/Specifications/HBO-SDR_Spec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Specifications/media-manifest-core",
+              "path": "/portfolio/docs/Specifications/media-manifest-core",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Visuals/fb-business-model",
+              "path": "/portfolio/docs/Visuals/fb-business-model",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Visuals/small-kitchen-appliance",
+              "path": "/portfolio/docs/Visuals/small-kitchen-appliance",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/portfolio/docs/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "unversionedId": "Developer/release-notes",
+  "id": "Developer/release-notes",
+  "title": "HBO Max Release Notes",
+  "description": "This page is not reflective of an actual document sent to partners. Rather it is an overview of the release notes, and the site (which I built) that the release notes are for.",
+  "source": "@site/docs/Developer/release-notes.md",
+  "sourceDirName": "Developer",
+  "slug": "/Developer/release-notes",
+  "permalink": "/portfolio/docs/Developer/release-notes",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/release-notes.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Unix",
+      "permalink": "/portfolio/docs/tags/unix"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "HBO Max Release Notes",
+    "sidebar_position": 4,
+    "tags": [
+      "Git",
+      "Github",
+      "Unix",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/portfolio/docs/intro"
+  },
+  "next": {
+    "title": "Configure and Test Audio",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network"
+  }
+}

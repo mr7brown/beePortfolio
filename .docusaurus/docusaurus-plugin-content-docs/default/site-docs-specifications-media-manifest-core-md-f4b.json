@@ -1,0 +1,71 @@
+{
+  "unversionedId": "Specifications/media-manifest-core",
+  "id": "Specifications/media-manifest-core",
+  "title": "HBO Media Manifest Core",
+  "description": "The purpose of this document is to document and define WarnerMedia's requirements for the successful delivery of content and technical metadata using MovieLabs Media Manifest Core (MMC).",
+  "source": "@site/docs/Specifications/media-manifest-core.md",
+  "sourceDirName": "Specifications",
+  "slug": "/Specifications/media-manifest-core",
+  "permalink": "/portfolio/docs/Specifications/media-manifest-core",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Specifications/media-manifest-core.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/portfolio/docs/tags/jenkins"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "HBO Media Manifest Metadata",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO",
+      "Jenkins"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How cross-category ads improve reach for coffee advertisers",
+    "permalink": "/portfolio/docs/Product/cross-category-ads"
+  },
+  "next": {
+    "title": "HBO Standard-Definition Range",
+    "permalink": "/portfolio/docs/Specifications/HBO-SDR_Spec"
+  }
+}

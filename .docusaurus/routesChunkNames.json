@@ -1,0 +1,450 @@
+{
+  "/portfolio/__docusaurus/debug-d2a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
+    }
+  },
+  "/portfolio/__docusaurus/debug/config-14f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
+    }
+  },
+  "/portfolio/__docusaurus/debug/content-d75": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
+    },
+    "allContent": "allContent---portfolio-docusaurus-debug-content-246-3d7"
+  },
+  "/portfolio/__docusaurus/debug/globalData-e82": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
+    }
+  },
+  "/portfolio/__docusaurus/debug/metadata-a7c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
+    }
+  },
+  "/portfolio/__docusaurus/debug/registry-095": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
+    }
+  },
+  "/portfolio/__docusaurus/debug/routes-a18": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
+    }
+  },
+  "/portfolio/blog-b3f": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-766-63c"
+      },
+      {
+        "content": "content---portfolio-blogf-4-f-62a"
+      },
+      {
+        "content": "content---portfolio-blog-871-6e7"
+      },
+      {
+        "content": "content---portfolio-blog-925-d05"
+      }
+    ],
+    "metadata": "metadata---portfolio-blog-78-a-92f"
+  },
+  "/portfolio/blog/archive-ce4": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "archive": "archive---portfolio-blog-archive-9-de-6c6"
+  },
+  "/portfolio/blog/first-blog-post-1e7": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-first-blog-poste-27-7fb"
+  },
+  "/portfolio/blog/long-blog-post-ad1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-long-blog-post-736-cae"
+  },
+  "/portfolio/blog/mdx-blog-post-81f": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-mdx-blog-post-593-38e"
+  },
+  "/portfolio/blog/tags-144": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "tags": "tags---portfolio-blog-tagsfc-4-ea6"
+  },
+  "/portfolio/blog/tags/docusaurus-b70": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-766-63c"
+      },
+      {
+        "content": "content---portfolio-blogf-4-f-62a"
+      },
+      {
+        "content": "content---portfolio-blog-871-6e7"
+      },
+      {
+        "content": "content---portfolio-blog-925-d05"
+      }
+    ],
+    "tag": "tag---portfolio-blog-tags-docusaurusa-05-230",
+    "listMetadata": "listMetadata---portfolio-blog-tags-docusaurus-7-e-9-6f8"
+  },
+  "/portfolio/blog/tags/facebook-1f3": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-766-63c"
+      }
+    ],
+    "tag": "tag---portfolio-blog-tags-facebook-66-c-8d9",
+    "listMetadata": "listMetadata---portfolio-blog-tags-facebookcb-0-c11"
+  },
+  "/portfolio/blog/tags/hello-66b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-766-63c"
+      },
+      {
+        "content": "content---portfolio-blog-871-6e7"
+      }
+    ],
+    "tag": "tag---portfolio-blog-tags-hello-6-c-4-40a",
+    "listMetadata": "listMetadata---portfolio-blog-tags-hello-991-b2c"
+  },
+  "/portfolio/blog/tags/hola-ab1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "items": [
+      {
+        "content": "content---portfolio-blog-925-d05"
+      }
+    ],
+    "tag": "tag---portfolio-blog-tags-holab-20-e78",
+    "listMetadata": "listMetadata---portfolio-blog-tags-holacbd-104"
+  },
+  "/portfolio/blog/welcome-3da": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---portfolio-blogc-5-e-873"
+    },
+    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "content": "content---portfolio-blog-welcomed-9-f-524"
+  },
+  "/portfolio/docs/tags-717": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tags": "tags---portfolio-docs-tags-559-b75"
+  },
+  "/portfolio/docs/tags/account-configuration-64e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-account-configuration-8-df-1c8"
+  },
+  "/portfolio/docs/tags/adobe-illustrator-fb5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-adobe-illustratorc-4-e-d1c"
+  },
+  "/portfolio/docs/tags/adobe-in-design-aed": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-adobe-in-design-3-ce-71c"
+  },
+  "/portfolio/docs/tags/advertising-e50": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-advertising-8-e-2-ad5"
+  },
+  "/portfolio/docs/tags/amazon-1f9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-amazondf-1-3c3"
+  },
+  "/portfolio/docs/tags/api-1d1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-api-00-a-369"
+  },
+  "/portfolio/docs/tags/cicd-71e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-cicd-8-f-0-0ac"
+  },
+  "/portfolio/docs/tags/data-analytics-b2e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-data-analytics-0-d-2-8e2"
+  },
+  "/portfolio/docs/tags/data-science-3a8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-data-science-21-e-a0a"
+  },
+  "/portfolio/docs/tags/data-visualization-ad8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-data-visualizatione-24-48f"
+  },
+  "/portfolio/docs/tags/docs-as-code-549": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-docs-as-code-763-e2f"
+  },
+  "/portfolio/docs/tags/facebook-603": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-facebook-032-e01"
+  },
+  "/portfolio/docs/tags/git-bab": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-git-015-57e"
+  },
+  "/portfolio/docs/tags/github-7a1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-github-22-d-fe7"
+  },
+  "/portfolio/docs/tags/google-96a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-google-15-f-8d0"
+  },
+  "/portfolio/docs/tags/google-assistant-sdk-310": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-google-assistant-sdk-67-c-c35"
+  },
+  "/portfolio/docs/tags/hbo-712": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-hbo-4-cd-c8a"
+  },
+  "/portfolio/docs/tags/infographic-dab": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-infographicc-37-bd3"
+  },
+  "/portfolio/docs/tags/jenkins-b5f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-jenkins-7-a-6-4cb"
+  },
+  "/portfolio/docs/tags/linux-cde": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-linux-5-f-3-548"
+  },
+  "/portfolio/docs/tags/raspberry-pi-947": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-raspberry-pi-4-f-6-081"
+  },
+  "/portfolio/docs/tags/sdk-041": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-sdk-247-6ac"
+  },
+  "/portfolio/docs/tags/unix-e7e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-unix-906-0bf"
+  },
+  "/portfolio/docs/tags/vs-code-df9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "tag": "tag---portfolio-docs-tags-vs-code-1-aa-4f6"
+  },
+  "/portfolio/markdown-page-48a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---portfolio-markdown-page-2-d-1-532"
+    },
+    "content": "content---portfolio-markdown-page-393-99e"
+  },
+  "/portfolio/docs-ea0": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+    },
+    "versionMetadata": "versionMetadata---portfolio-docs-935-613"
+  },
+  "/portfolio/docs/Developer/Assistant-SDK/developer-account-306": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-assistant-sdk-developer-account-3-ea-b50"
+  },
+  "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network-3ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-assistant-sdk-hardware-and-networkac-4-bc2"
+  },
+  "/portfolio/docs/Developer/Assistant-SDK/install-sdk-13f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-assistant-sdk-install-sdk-3-cd-284"
+  },
+  "/portfolio/docs/Developer/Assistant-SDK/register-device-189": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-assistant-sdk-register-device-2-bb-72c"
+  },
+  "/portfolio/docs/Developer/Assistant-SDK/run-sample-code-2a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-assistant-sdk-run-sample-code-3-ce-bfc"
+  },
+  "/portfolio/docs/Developer/Git/advanced-git-726": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-git-advanced-gitdf-0-da9"
+  },
+  "/portfolio/docs/Developer/Git/git-setup-213": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-git-git-setupd-02-82c"
+  },
+  "/portfolio/docs/Developer/Git/gitlab-800": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-git-gitlab-79-b-a45"
+  },
+  "/portfolio/docs/Developer/Git/master-git-385": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-git-master-gitb-9-f-0a7"
+  },
+  "/portfolio/docs/Developer/release-notes-11b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-developer-release-notes-436-99b"
+  },
+  "/portfolio/docs/intro-b23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-intro-0-e-3-586"
+  },
+  "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021-b8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-product-2-prime-day-strategies-used-by-top-performers-in-2021-a-6-c-bf9"
+  },
+  "/portfolio/docs/Product/cross-category-ads-cc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-product-cross-category-ads-2-b-1-c2f"
+  },
+  "/portfolio/docs/Product/multichannel-investment-f62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-product-multichannel-investment-1-c-5-87b"
+  },
+  "/portfolio/docs/Specifications/HBO-SDR_Spec-005": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-specifications-hbo-sdr-spec-83-d-a4c"
+  },
+  "/portfolio/docs/Specifications/media-manifest-core-880": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-specifications-media-manifest-coref-4-b-df6"
+  },
+  "/portfolio/docs/Visuals/fb-business-model-35e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-visuals-fb-business-model-89-b-682"
+  },
+  "/portfolio/docs/Visuals/small-kitchen-appliance-c1c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-visuals-small-kitchen-appliance-62-b-593"
+  },
+  "/portfolio/-87b": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---portfolio-markdown-page-2-d-1-532"
+    },
+    "config": "config---portfolio-5-e-9-9af"
+  }
+}

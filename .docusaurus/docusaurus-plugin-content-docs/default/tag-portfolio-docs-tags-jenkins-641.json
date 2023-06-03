@@ -1,0 +1,26 @@
+{
+  "label": "Jenkins",
+  "permalink": "/portfolio/docs/tags/jenkins",
+  "allTagsPath": "/portfolio/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Specifications/media-manifest-core",
+      "title": "HBO Media Manifest Core",
+      "description": "The purpose of this document is to document and define WarnerMedia's requirements for the successful delivery of content and technical metadata using MovieLabs Media Manifest Core (MMC).",
+      "permalink": "/portfolio/docs/Specifications/media-manifest-core"
+    },
+    {
+      "id": "Specifications/HBO-SDR_Spec",
+      "title": "HBO Standard-Definition Range Content Specification",
+      "description": "The purpose of this document is to facilitate and define WarnerMedia's requirements for the successful acquisition of Standard Dynamic Range (SDR) Licensed Content from external parties. This specification establishes the composition and technical requirements for all aspects of the delivery to which external parties must comply to complete the content acquisition process.",
+      "permalink": "/portfolio/docs/Specifications/HBO-SDR_Spec"
+    },
+    {
+      "id": "intro",
+      "title": "Welcome to Bhavya's Portfolio",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique venenatis dolor, eget fermentum metus vehicula a. Aliquam eu ultrices urna. Maecenas interdum lobortis purus, nec dignissim lacus tincidunt vel. Donec hendrerit tellus eget tempor euismod. Fusce auctor mi vel erat aliquam, in facilisis urna luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean bibendum sollicitudin elit, a pharetra ex condimentum ac.",
+      "permalink": "/portfolio/docs/intro"
+    }
+  ]
+}

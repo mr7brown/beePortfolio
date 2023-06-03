@@ -1,0 +1,56 @@
+{
+  "unversionedId": "Visuals/small-kitchen-appliance",
+  "id": "Visuals/small-kitchen-appliance",
+  "title": "Overview",
+  "description": "For this visual, I was the sole author. I worked with director-level researchers at Amazon and Kantar to compile a list of survey response questions to determine the path to purchase for Small Kitchen Appliance buyers in the United Kingdom. To test different delivery methods, I created an infographic to illustrate the three-phase purchase journey.",
+  "source": "@site/docs/Visuals/small-kitchen-appliance.md",
+  "sourceDirName": "Visuals",
+  "slug": "/Visuals/small-kitchen-appliance",
+  "permalink": "/portfolio/docs/Visuals/small-kitchen-appliance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Visuals/small-kitchen-appliance.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/portfolio/docs/tags/data-analytics"
+    },
+    {
+      "label": "Infographic",
+      "permalink": "/portfolio/docs/tags/infographic"
+    },
+    {
+      "label": "Data Visualization",
+      "permalink": "/portfolio/docs/tags/data-visualization"
+    },
+    {
+      "label": "Adobe InDesign",
+      "permalink": "/portfolio/docs/tags/adobe-in-design"
+    },
+    {
+      "label": "Adobe Illustrator",
+      "permalink": "/portfolio/docs/tags/adobe-illustrator"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "UK Small Kitchen Appliances Infographic",
+    "sidebar_position": 0,
+    "tags": [
+      "Data Analytics",
+      "Infographic",
+      "Data Visualization",
+      "Adobe InDesign",
+      "Adobe Illustrator"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HBO Standard-Definition Range",
+    "permalink": "/portfolio/docs/Specifications/HBO-SDR_Spec"
+  },
+  "next": {
+    "title": "Facebook Business Development Model",
+    "permalink": "/portfolio/docs/Visuals/fb-business-model"
+  }
+}

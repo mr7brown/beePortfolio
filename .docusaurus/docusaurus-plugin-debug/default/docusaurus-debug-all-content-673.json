@@ -1,0 +1,1656 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/portfolio/docs",
+          "tagsPath": "/portfolio/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/asbrown/Desktop/beePortfolio/sidebars.js",
+          "contentPath": "/Users/asbrown/Desktop/beePortfolio/docs",
+          "contentPathLocalized": "/Users/asbrown/Desktop/beePortfolio/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "Developer/Assistant-SDK/developer-account",
+              "id": "Developer/Assistant-SDK/developer-account",
+              "title": "Configure Developer Account and Account Settings",
+              "description": "<!--",
+              "source": "@site/docs/Developer/Assistant-SDK/developer-account.md",
+              "sourceDirName": "Developer/Assistant-SDK",
+              "slug": "/Developer/Assistant-SDK/developer-account",
+              "permalink": "/portfolio/docs/Developer/Assistant-SDK/developer-account",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/developer-account.md",
+              "tags": [
+                {
+                  "label": "Account Configuration",
+                  "permalink": "/portfolio/docs/tags/account-configuration"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "Google",
+                  "permalink": "/portfolio/docs/tags/google"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Configure Developer Account and Account Settings",
+                "sidebar_position": 1,
+                "tags": [
+                  "Account Configuration",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "Google"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configure and Test Audio",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network"
+              },
+              "next": {
+                "title": "Register the Device Model",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/register-device"
+              }
+            },
+            {
+              "unversionedId": "Developer/Assistant-SDK/hardware-and-network",
+              "id": "Developer/Assistant-SDK/hardware-and-network",
+              "title": "Configure and Test Audio",
+              "description": "<!--",
+              "source": "@site/docs/Developer/Assistant-SDK/hardware-and-network.md",
+              "sourceDirName": "Developer/Assistant-SDK",
+              "slug": "/Developer/Assistant-SDK/hardware-and-network",
+              "permalink": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/hardware-and-network.md",
+              "tags": [
+                {
+                  "label": "Raspberry Pi",
+                  "permalink": "/portfolio/docs/tags/raspberry-pi"
+                },
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "Google",
+                  "permalink": "/portfolio/docs/tags/google"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_label": "Configure and Test Audio",
+                "sidebar_position": 0,
+                "tags": [
+                  "Raspberry Pi",
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "Google"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HBO Max Release Notes",
+                "permalink": "/portfolio/docs/Developer/release-notes"
+              },
+              "next": {
+                "title": "Configure Developer Account and Account Settings",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/developer-account"
+              }
+            },
+            {
+              "unversionedId": "Developer/Assistant-SDK/install-sdk",
+              "id": "Developer/Assistant-SDK/install-sdk",
+              "title": "Install the SDK and Sample Code",
+              "description": "Follow these instructions to install the SDK and sample code in your project. Run all of the commands on this page in a terminal on the device (either directly or via an SSH connection).",
+              "source": "@site/docs/Developer/Assistant-SDK/install-sdk.md",
+              "sourceDirName": "Developer/Assistant-SDK",
+              "slug": "/Developer/Assistant-SDK/install-sdk",
+              "permalink": "/portfolio/docs/Developer/Assistant-SDK/install-sdk",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/install-sdk.md",
+              "tags": [
+                {
+                  "label": "Raspberry Pi",
+                  "permalink": "/portfolio/docs/tags/raspberry-pi"
+                },
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "Google",
+                  "permalink": "/portfolio/docs/tags/google"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "Install the SDK and Sample Code",
+                "sidebar_position": 4,
+                "tags": [
+                  "Raspberry Pi",
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "Google"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Register the Device Model",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/register-device"
+              },
+              "next": {
+                "title": "Run the Sample Code",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code"
+              }
+            },
+            {
+              "unversionedId": "Developer/Assistant-SDK/register-device",
+              "id": "Developer/Assistant-SDK/register-device",
+              "title": "Register the Device Model",
+              "description": "In order for the Google Assistant to respond to commands appropriate to your device and the given context, the Assistant needs information about your particular device. You provide this information, which includes fields like device type and manufacturer, as a device model. You can think of this model as a general class of device -- such as a light, speaker, or toy robot.",
+              "source": "@site/docs/Developer/Assistant-SDK/register-device.md",
+              "sourceDirName": "Developer/Assistant-SDK",
+              "slug": "/Developer/Assistant-SDK/register-device",
+              "permalink": "/portfolio/docs/Developer/Assistant-SDK/register-device",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/register-device.md",
+              "tags": [
+                {
+                  "label": "Raspberry Pi",
+                  "permalink": "/portfolio/docs/tags/raspberry-pi"
+                },
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "Google",
+                  "permalink": "/portfolio/docs/tags/google"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Register the Device Model",
+                "sidebar_position": 3,
+                "tags": [
+                  "Raspberry Pi",
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "Google"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configure Developer Account and Account Settings",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/developer-account"
+              },
+              "next": {
+                "title": "Install the SDK and Sample Code",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/install-sdk"
+              }
+            },
+            {
+              "unversionedId": "Developer/Assistant-SDK/run-sample-code",
+              "id": "Developer/Assistant-SDK/run-sample-code",
+              "title": "Run the Sample Code",
+              "description": "At this point, you are ready to run the sample and make a query.",
+              "source": "@site/docs/Developer/Assistant-SDK/run-sample-code.md",
+              "sourceDirName": "Developer/Assistant-SDK",
+              "slug": "/Developer/Assistant-SDK/run-sample-code",
+              "permalink": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/run-sample-code.md",
+              "tags": [
+                {
+                  "label": "Raspberry Pi",
+                  "permalink": "/portfolio/docs/tags/raspberry-pi"
+                },
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "Google",
+                  "permalink": "/portfolio/docs/tags/google"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_label": "Run the Sample Code",
+                "sidebar_position": 5,
+                "tags": [
+                  "Raspberry Pi",
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "Google"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install the SDK and Sample Code",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/install-sdk"
+              },
+              "next": {
+                "title": "HBO Gitlab-setup",
+                "permalink": "/portfolio/docs/Developer/Git/gitlab"
+              }
+            },
+            {
+              "unversionedId": "Developer/Git/advanced-git",
+              "id": "Developer/Git/advanced-git",
+              "title": "advanced-git",
+              "description": "Git Shortcuts",
+              "source": "@site/docs/Developer/Git/advanced-git.md",
+              "sourceDirName": "Developer/Git",
+              "slug": "/Developer/Git/advanced-git",
+              "permalink": "/portfolio/docs/Developer/Git/advanced-git",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/advanced-git.md",
+              "tags": [
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Advanced Git Commands",
+                "sidebar_position": 3,
+                "tags": [
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "VS Code",
+                  "HBO"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started with Git",
+                "permalink": "/portfolio/docs/Developer/Git/git-setup"
+              },
+              "next": {
+                "title": "Mastering Git",
+                "permalink": "/portfolio/docs/Developer/Git/master-git"
+              }
+            },
+            {
+              "unversionedId": "Developer/Git/git-setup",
+              "id": "Developer/Git/git-setup",
+              "title": "Overview",
+              "description": "One question frequently asked by aspiring technical writers is: How do I gain the requisite experience? And typically, responders say to join an open source project or something similar. While working on projects is a great way to gain experience, technical writers can also begin simply by setting up their own git-based environement—even if it just used to publish notes or a personal portfolio.",
+              "source": "@site/docs/Developer/Git/git-setup.md",
+              "sourceDirName": "Developer/Git",
+              "slug": "/Developer/Git/git-setup",
+              "permalink": "/portfolio/docs/Developer/Git/git-setup",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/git-setup.md",
+              "tags": [
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Unix",
+                  "permalink": "/portfolio/docs/tags/unix"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "Getting Started with Git",
+                "sidebar_position": 2,
+                "tags": [
+                  "Git",
+                  "Github",
+                  "Unix",
+                  "VS Code",
+                  "HBO"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HBO Gitlab-setup",
+                "permalink": "/portfolio/docs/Developer/Git/gitlab"
+              },
+              "next": {
+                "title": "Advanced Git Commands",
+                "permalink": "/portfolio/docs/Developer/Git/advanced-git"
+              }
+            },
+            {
+              "unversionedId": "Developer/Git/gitlab",
+              "id": "Developer/Git/gitlab",
+              "title": "Overview",
+              "description": "This guide provides instructions for establishing a connection with the GitLab repo for the Partner Hub. By the end, you will:",
+              "source": "@site/docs/Developer/Git/gitlab.md",
+              "sourceDirName": "Developer/Git",
+              "slug": "/Developer/Git/gitlab",
+              "permalink": "/portfolio/docs/Developer/Git/gitlab",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/gitlab.md",
+              "tags": [
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "HBO Gitlab-setup",
+                "sidebar_position": 1,
+                "tags": [
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "HBO"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Run the Sample Code",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code"
+              },
+              "next": {
+                "title": "Getting Started with Git",
+                "permalink": "/portfolio/docs/Developer/Git/git-setup"
+              }
+            },
+            {
+              "unversionedId": "Developer/Git/master-git",
+              "id": "Developer/Git/master-git",
+              "title": "Overview",
+              "description": "At this point in the Git Collection you should understand what Git is and how to use it. This post takes all the lessons learned so far and takes them a step further by looking at branching (which is typical for projects with multiple contributors).",
+              "source": "@site/docs/Developer/Git/master-git.md",
+              "sourceDirName": "Developer/Git",
+              "slug": "/Developer/Git/master-git",
+              "permalink": "/portfolio/docs/Developer/Git/master-git",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/master-git.md",
+              "tags": [
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "Mastering Git",
+                "sidebar_position": 3,
+                "tags": [
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "VS Code",
+                  "HBO"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Git Commands",
+                "permalink": "/portfolio/docs/Developer/Git/advanced-git"
+              },
+              "next": {
+                "title": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+                "permalink": "/portfolio/docs/Product/multichannel-investment"
+              }
+            },
+            {
+              "unversionedId": "Developer/release-notes",
+              "id": "Developer/release-notes",
+              "title": "HBO Max Release Notes",
+              "description": "This page is not reflective of an actual document sent to partners. Rather it is an overview of the release notes, and the site (which I built) that the release notes are for.",
+              "source": "@site/docs/Developer/release-notes.md",
+              "sourceDirName": "Developer",
+              "slug": "/Developer/release-notes",
+              "permalink": "/portfolio/docs/Developer/release-notes",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/release-notes.md",
+              "tags": [
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Unix",
+                  "permalink": "/portfolio/docs/tags/unix"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_label": "HBO Max Release Notes",
+                "sidebar_position": 4,
+                "tags": [
+                  "Git",
+                  "Github",
+                  "Unix",
+                  "VS Code",
+                  "HBO"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/portfolio/docs/intro"
+              },
+              "next": {
+                "title": "Configure and Test Audio",
+                "permalink": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Welcome to Bhavya's Portfolio",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique venenatis dolor, eget fermentum metus vehicula a. Aliquam eu ultrices urna. Maecenas interdum lobortis purus, nec dignissim lacus tincidunt vel. Donec hendrerit tellus eget tempor euismod. Fusce auctor mi vel erat aliquam, in facilisis urna luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean bibendum sollicitudin elit, a pharetra ex condimentum ac.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/portfolio/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [
+                {
+                  "label": "Raspberry Pi",
+                  "permalink": "/portfolio/docs/tags/raspberry-pi"
+                },
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Docs-as-code",
+                  "permalink": "/portfolio/docs/tags/docs-as-code"
+                },
+                {
+                  "label": "CICD",
+                  "permalink": "/portfolio/docs/tags/cicd"
+                },
+                {
+                  "label": "Jenkins",
+                  "permalink": "/portfolio/docs/tags/jenkins"
+                },
+                {
+                  "label": "SDK",
+                  "permalink": "/portfolio/docs/tags/sdk"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "Data Analytics",
+                  "permalink": "/portfolio/docs/tags/data-analytics"
+                },
+                {
+                  "label": "Infographic",
+                  "permalink": "/portfolio/docs/tags/infographic"
+                },
+                {
+                  "label": "API",
+                  "permalink": "/portfolio/docs/tags/api"
+                },
+                {
+                  "label": "Data Visualization",
+                  "permalink": "/portfolio/docs/tags/data-visualization"
+                },
+                {
+                  "label": "Adobe InDesign",
+                  "permalink": "/portfolio/docs/tags/adobe-in-design"
+                },
+                {
+                  "label": "Adobe Illustrator",
+                  "permalink": "/portfolio/docs/tags/adobe-illustrator"
+                },
+                {
+                  "label": "Facebook",
+                  "permalink": "/portfolio/docs/tags/facebook"
+                },
+                {
+                  "label": "Google",
+                  "permalink": "/portfolio/docs/tags/google"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                },
+                {
+                  "label": "Amazon",
+                  "permalink": "/portfolio/docs/tags/amazon"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_label": "Introduction",
+                "sidebar_position": 0,
+                "tags": [
+                  "Raspberry Pi",
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Docs-as-code",
+                  "CICD",
+                  "Jenkins",
+                  "SDK",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "Data Analytics",
+                  "Infographic",
+                  "API",
+                  "Data Visualization",
+                  "Adobe InDesign",
+                  "Adobe Illustrator",
+                  "Facebook",
+                  "Google",
+                  "HBO",
+                  "Amazon"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "HBO Max Release Notes",
+                "permalink": "/portfolio/docs/Developer/release-notes"
+              }
+            },
+            {
+              "unversionedId": "Product/2 Prime Day Strategies used by Top Performers in 2021",
+              "id": "Product/2 Prime Day Strategies used by Top Performers in 2021",
+              "title": "2 Prime Day ad strategies used by top performers in 2021",
+              "description": "Here is a link to the published article on Amazon's Advertising site.",
+              "source": "@site/docs/Product/2 Prime Day Strategies used by Top Performers in 2021.md",
+              "sourceDirName": "Product",
+              "slug": "/Product/2 Prime Day Strategies used by Top Performers in 2021",
+              "permalink": "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Product/2 Prime Day Strategies used by Top Performers in 2021.md",
+              "tags": [
+                {
+                  "label": "Data Analytics",
+                  "permalink": "/portfolio/docs/tags/data-analytics"
+                },
+                {
+                  "label": "Amazon",
+                  "permalink": "/portfolio/docs/tags/amazon"
+                },
+                {
+                  "label": "Advertising",
+                  "permalink": "/portfolio/docs/tags/advertising"
+                },
+                {
+                  "label": "Data Science",
+                  "permalink": "/portfolio/docs/tags/data-science"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "2 Prime Day Strategies used by Top Performers in 2021",
+                "sidebar_position": 2,
+                "tags": [
+                  "Data Analytics",
+                  "Amazon",
+                  "Advertising",
+                  "Data Science"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+                "permalink": "/portfolio/docs/Product/multichannel-investment"
+              },
+              "next": {
+                "title": "How cross-category ads improve reach for coffee advertisers",
+                "permalink": "/portfolio/docs/Product/cross-category-ads"
+              }
+            },
+            {
+              "unversionedId": "Product/cross-category-ads",
+              "id": "Product/cross-category-ads",
+              "title": "How cross-category ads improve reach for coffee advertisers",
+              "description": "Here is a link to the published article on Amazon's Advertising site.",
+              "source": "@site/docs/Product/cross-category-ads.md",
+              "sourceDirName": "Product",
+              "slug": "/Product/cross-category-ads",
+              "permalink": "/portfolio/docs/Product/cross-category-ads",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Product/cross-category-ads.md",
+              "tags": [
+                {
+                  "label": "Data Analytics",
+                  "permalink": "/portfolio/docs/tags/data-analytics"
+                },
+                {
+                  "label": "Amazon",
+                  "permalink": "/portfolio/docs/tags/amazon"
+                },
+                {
+                  "label": "Advertising",
+                  "permalink": "/portfolio/docs/tags/advertising"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_label": "How cross-category ads improve reach for coffee advertisers",
+                "sidebar_position": 3,
+                "tags": [
+                  "Data Analytics",
+                  "Amazon",
+                  "Advertising"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2 Prime Day Strategies used by Top Performers in 2021",
+                "permalink": "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021"
+              },
+              "next": {
+                "title": "HBO Media Manifest Metadata",
+                "permalink": "/portfolio/docs/Specifications/media-manifest-core"
+              }
+            },
+            {
+              "unversionedId": "Product/multichannel-investment",
+              "id": "Product/multichannel-investment",
+              "title": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+              "description": "Here is a link to the published article on Amazon's Advertising site.",
+              "source": "@site/docs/Product/multichannel-investment.md",
+              "sourceDirName": "Product",
+              "slug": "/Product/multichannel-investment",
+              "permalink": "/portfolio/docs/Product/multichannel-investment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Product/multichannel-investment.md",
+              "tags": [
+                {
+                  "label": "Data Analytics",
+                  "permalink": "/portfolio/docs/tags/data-analytics"
+                },
+                {
+                  "label": "Amazon",
+                  "permalink": "/portfolio/docs/tags/amazon"
+                },
+                {
+                  "label": "Advertising",
+                  "permalink": "/portfolio/docs/tags/advertising"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+                "sidebar_position": 1,
+                "tags": [
+                  "Data Analytics",
+                  "Amazon",
+                  "Advertising"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mastering Git",
+                "permalink": "/portfolio/docs/Developer/Git/master-git"
+              },
+              "next": {
+                "title": "2 Prime Day Strategies used by Top Performers in 2021",
+                "permalink": "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021"
+              }
+            },
+            {
+              "unversionedId": "Specifications/HBO-SDR_Spec",
+              "id": "Specifications/HBO-SDR_Spec",
+              "title": "HBO Standard-Definition Range Content Specification",
+              "description": "The purpose of this document is to facilitate and define WarnerMedia's requirements for the successful acquisition of Standard Dynamic Range (SDR) Licensed Content from external parties. This specification establishes the composition and technical requirements for all aspects of the delivery to which external parties must comply to complete the content acquisition process.",
+              "source": "@site/docs/Specifications/HBO-SDR_Spec.md",
+              "sourceDirName": "Specifications",
+              "slug": "/Specifications/HBO-SDR_Spec",
+              "permalink": "/portfolio/docs/Specifications/HBO-SDR_Spec",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Specifications/HBO-SDR_Spec.md",
+              "tags": [
+                {
+                  "label": "Raspberry Pi",
+                  "permalink": "/portfolio/docs/tags/raspberry-pi"
+                },
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                },
+                {
+                  "label": "Jenkins",
+                  "permalink": "/portfolio/docs/tags/jenkins"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_label": "HBO Standard-Definition Range",
+                "sidebar_position": 2,
+                "tags": [
+                  "Raspberry Pi",
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "HBO",
+                  "Jenkins"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HBO Media Manifest Metadata",
+                "permalink": "/portfolio/docs/Specifications/media-manifest-core"
+              },
+              "next": {
+                "title": "UK Small Kitchen Appliances Infographic",
+                "permalink": "/portfolio/docs/Visuals/small-kitchen-appliance"
+              }
+            },
+            {
+              "unversionedId": "Specifications/media-manifest-core",
+              "id": "Specifications/media-manifest-core",
+              "title": "HBO Media Manifest Core",
+              "description": "The purpose of this document is to document and define WarnerMedia's requirements for the successful delivery of content and technical metadata using MovieLabs Media Manifest Core (MMC).",
+              "source": "@site/docs/Specifications/media-manifest-core.md",
+              "sourceDirName": "Specifications",
+              "slug": "/Specifications/media-manifest-core",
+              "permalink": "/portfolio/docs/Specifications/media-manifest-core",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Specifications/media-manifest-core.md",
+              "tags": [
+                {
+                  "label": "Raspberry Pi",
+                  "permalink": "/portfolio/docs/tags/raspberry-pi"
+                },
+                {
+                  "label": "Git",
+                  "permalink": "/portfolio/docs/tags/git"
+                },
+                {
+                  "label": "Github",
+                  "permalink": "/portfolio/docs/tags/github"
+                },
+                {
+                  "label": "Linux",
+                  "permalink": "/portfolio/docs/tags/linux"
+                },
+                {
+                  "label": "Google Assistant SDK",
+                  "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+                },
+                {
+                  "label": "VS Code",
+                  "permalink": "/portfolio/docs/tags/vs-code"
+                },
+                {
+                  "label": "HBO",
+                  "permalink": "/portfolio/docs/tags/hbo"
+                },
+                {
+                  "label": "Jenkins",
+                  "permalink": "/portfolio/docs/tags/jenkins"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_label": "HBO Media Manifest Metadata",
+                "sidebar_position": 0,
+                "tags": [
+                  "Raspberry Pi",
+                  "Git",
+                  "Github",
+                  "Linux",
+                  "Google Assistant SDK",
+                  "VS Code",
+                  "HBO",
+                  "Jenkins"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How cross-category ads improve reach for coffee advertisers",
+                "permalink": "/portfolio/docs/Product/cross-category-ads"
+              },
+              "next": {
+                "title": "HBO Standard-Definition Range",
+                "permalink": "/portfolio/docs/Specifications/HBO-SDR_Spec"
+              }
+            },
+            {
+              "unversionedId": "Visuals/fb-business-model",
+              "id": "Visuals/fb-business-model",
+              "title": "Overview",
+              "description": "For this visual, I was the sole author. I worked with with internal business teams to determine the leadership and goals of the three businesses within the Small-medium Business Model at Facebook.",
+              "source": "@site/docs/Visuals/fb-business-model.md",
+              "sourceDirName": "Visuals",
+              "slug": "/Visuals/fb-business-model",
+              "permalink": "/portfolio/docs/Visuals/fb-business-model",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Visuals/fb-business-model.md",
+              "tags": [
+                {
+                  "label": "Infographic",
+                  "permalink": "/portfolio/docs/tags/infographic"
+                },
+                {
+                  "label": "Data Visualization",
+                  "permalink": "/portfolio/docs/tags/data-visualization"
+                },
+                {
+                  "label": "Adobe InDesign",
+                  "permalink": "/portfolio/docs/tags/adobe-in-design"
+                },
+                {
+                  "label": "Adobe Illustrator",
+                  "permalink": "/portfolio/docs/tags/adobe-illustrator"
+                },
+                {
+                  "label": "Facebook",
+                  "permalink": "/portfolio/docs/tags/facebook"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_label": "Facebook Business Development Model",
+                "sidebar_position": 1,
+                "tags": [
+                  "Infographic",
+                  "Data Visualization",
+                  "Adobe InDesign",
+                  "Adobe Illustrator",
+                  "Facebook"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "UK Small Kitchen Appliances Infographic",
+                "permalink": "/portfolio/docs/Visuals/small-kitchen-appliance"
+              }
+            },
+            {
+              "unversionedId": "Visuals/small-kitchen-appliance",
+              "id": "Visuals/small-kitchen-appliance",
+              "title": "Overview",
+              "description": "For this visual, I was the sole author. I worked with director-level researchers at Amazon and Kantar to compile a list of survey response questions to determine the path to purchase for Small Kitchen Appliance buyers in the United Kingdom. To test different delivery methods, I created an infographic to illustrate the three-phase purchase journey.",
+              "source": "@site/docs/Visuals/small-kitchen-appliance.md",
+              "sourceDirName": "Visuals",
+              "slug": "/Visuals/small-kitchen-appliance",
+              "permalink": "/portfolio/docs/Visuals/small-kitchen-appliance",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Visuals/small-kitchen-appliance.md",
+              "tags": [
+                {
+                  "label": "Data Analytics",
+                  "permalink": "/portfolio/docs/tags/data-analytics"
+                },
+                {
+                  "label": "Infographic",
+                  "permalink": "/portfolio/docs/tags/infographic"
+                },
+                {
+                  "label": "Data Visualization",
+                  "permalink": "/portfolio/docs/tags/data-visualization"
+                },
+                {
+                  "label": "Adobe InDesign",
+                  "permalink": "/portfolio/docs/tags/adobe-in-design"
+                },
+                {
+                  "label": "Adobe Illustrator",
+                  "permalink": "/portfolio/docs/tags/adobe-illustrator"
+                }
+              ],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_label": "UK Small Kitchen Appliances Infographic",
+                "sidebar_position": 0,
+                "tags": [
+                  "Data Analytics",
+                  "Infographic",
+                  "Data Visualization",
+                  "Adobe InDesign",
+                  "Adobe Illustrator"
+                ]
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "HBO Standard-Definition Range",
+                "permalink": "/portfolio/docs/Specifications/HBO-SDR_Spec"
+              },
+              "next": {
+                "title": "Facebook Business Development Model",
+                "permalink": "/portfolio/docs/Visuals/fb-business-model"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro",
+                "label": "Introduction"
+              },
+              {
+                "type": "category",
+                "label": "Developer",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Developer/release-notes",
+                    "label": "HBO Max Release Notes"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Assistant-SDK",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Developer/Assistant-SDK/hardware-and-network",
+                        "label": "Configure and Test Audio"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Developer/Assistant-SDK/developer-account",
+                        "label": "Configure Developer Account and Account Settings"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Developer/Assistant-SDK/register-device",
+                        "label": "Register the Device Model"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Developer/Assistant-SDK/install-sdk",
+                        "label": "Install the SDK and Sample Code"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Developer/Assistant-SDK/run-sample-code",
+                        "label": "Run the Sample Code"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "category",
+                    "label": "Git",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Developer/Git/gitlab",
+                        "label": "HBO Gitlab-setup"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Developer/Git/git-setup",
+                        "label": "Getting Started with Git"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Developer/Git/advanced-git",
+                        "label": "Advanced Git Commands"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Developer/Git/master-git",
+                        "label": "Mastering Git"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Product",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Product/multichannel-investment",
+                    "label": "Multichannel Investments Help Brands Grow in Amazon’s Store"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product/2 Prime Day Strategies used by Top Performers in 2021",
+                    "label": "2 Prime Day Strategies used by Top Performers in 2021"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Product/cross-category-ads",
+                    "label": "How cross-category ads improve reach for coffee advertisers"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Specifications",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Specifications/media-manifest-core",
+                    "label": "HBO Media Manifest Metadata"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Specifications/HBO-SDR_Spec",
+                    "label": "HBO Standard-Definition Range"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Visuals",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Visuals/small-kitchen-appliance",
+                    "label": "UK Small Kitchen Appliances Infographic"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Visuals/fb-business-model",
+                    "label": "Facebook Business Development Model"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/portfolio/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/portfolio/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/portfolio/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/portfolio/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/portfolio/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/portfolio/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/portfolio/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/portfolio/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/portfolio/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/portfolio/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/portfolio/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/portfolio/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/portfolio/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/portfolio/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/portfolio/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/portfolio/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/portfolio/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/portfolio/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/portfolio/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/portfolio/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/portfolio/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/portfolio/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/portfolio/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/portfolio/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/portfolio/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/portfolio/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/portfolio/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/portfolio/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/portfolio/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/portfolio/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/portfolio/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

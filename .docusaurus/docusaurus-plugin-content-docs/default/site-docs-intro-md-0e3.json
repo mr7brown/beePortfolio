@@ -1,0 +1,127 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Welcome to Bhavya's Portfolio",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique venenatis dolor, eget fermentum metus vehicula a. Aliquam eu ultrices urna. Maecenas interdum lobortis purus, nec dignissim lacus tincidunt vel. Donec hendrerit tellus eget tempor euismod. Fusce auctor mi vel erat aliquam, in facilisis urna luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean bibendum sollicitudin elit, a pharetra ex condimentum ac.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/portfolio/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Docs-as-code",
+      "permalink": "/portfolio/docs/tags/docs-as-code"
+    },
+    {
+      "label": "CICD",
+      "permalink": "/portfolio/docs/tags/cicd"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/portfolio/docs/tags/jenkins"
+    },
+    {
+      "label": "SDK",
+      "permalink": "/portfolio/docs/tags/sdk"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "Data Analytics",
+      "permalink": "/portfolio/docs/tags/data-analytics"
+    },
+    {
+      "label": "Infographic",
+      "permalink": "/portfolio/docs/tags/infographic"
+    },
+    {
+      "label": "API",
+      "permalink": "/portfolio/docs/tags/api"
+    },
+    {
+      "label": "Data Visualization",
+      "permalink": "/portfolio/docs/tags/data-visualization"
+    },
+    {
+      "label": "Adobe InDesign",
+      "permalink": "/portfolio/docs/tags/adobe-in-design"
+    },
+    {
+      "label": "Adobe Illustrator",
+      "permalink": "/portfolio/docs/tags/adobe-illustrator"
+    },
+    {
+      "label": "Facebook",
+      "permalink": "/portfolio/docs/tags/facebook"
+    },
+    {
+      "label": "Google",
+      "permalink": "/portfolio/docs/tags/google"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/portfolio/docs/tags/amazon"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Introduction",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Docs-as-code",
+      "CICD",
+      "Jenkins",
+      "SDK",
+      "Google Assistant SDK",
+      "VS Code",
+      "Data Analytics",
+      "Infographic",
+      "API",
+      "Data Visualization",
+      "Adobe InDesign",
+      "Adobe Illustrator",
+      "Facebook",
+      "Google",
+      "HBO",
+      "Amazon"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "HBO Max Release Notes",
+    "permalink": "/portfolio/docs/Developer/release-notes"
+  }
+}

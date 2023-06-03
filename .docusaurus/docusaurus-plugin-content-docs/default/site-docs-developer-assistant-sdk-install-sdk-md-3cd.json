@@ -1,0 +1,66 @@
+{
+  "unversionedId": "Developer/Assistant-SDK/install-sdk",
+  "id": "Developer/Assistant-SDK/install-sdk",
+  "title": "Install the SDK and Sample Code",
+  "description": "Follow these instructions to install the SDK and sample code in your project. Run all of the commands on this page in a terminal on the device (either directly or via an SSH connection).",
+  "source": "@site/docs/Developer/Assistant-SDK/install-sdk.md",
+  "sourceDirName": "Developer/Assistant-SDK",
+  "slug": "/Developer/Assistant-SDK/install-sdk",
+  "permalink": "/portfolio/docs/Developer/Assistant-SDK/install-sdk",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/install-sdk.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "Google",
+      "permalink": "/portfolio/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_label": "Install the SDK and Sample Code",
+    "sidebar_position": 4,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Register the Device Model",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/register-device"
+  },
+  "next": {
+    "title": "Run the Sample Code",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code"
+  }
+}

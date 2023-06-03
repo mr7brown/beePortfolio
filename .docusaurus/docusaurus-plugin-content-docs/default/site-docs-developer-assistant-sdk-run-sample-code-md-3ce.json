@@ -1,0 +1,66 @@
+{
+  "unversionedId": "Developer/Assistant-SDK/run-sample-code",
+  "id": "Developer/Assistant-SDK/run-sample-code",
+  "title": "Run the Sample Code",
+  "description": "At this point, you are ready to run the sample and make a query.",
+  "source": "@site/docs/Developer/Assistant-SDK/run-sample-code.md",
+  "sourceDirName": "Developer/Assistant-SDK",
+  "slug": "/Developer/Assistant-SDK/run-sample-code",
+  "permalink": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/run-sample-code.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "Google",
+      "permalink": "/portfolio/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_label": "Run the Sample Code",
+    "sidebar_position": 5,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install the SDK and Sample Code",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/install-sdk"
+  },
+  "next": {
+    "title": "HBO Gitlab-setup",
+    "permalink": "/portfolio/docs/Developer/Git/gitlab"
+  }
+}

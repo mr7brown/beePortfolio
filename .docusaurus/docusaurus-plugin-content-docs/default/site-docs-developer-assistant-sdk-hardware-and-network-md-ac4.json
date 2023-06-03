@@ -1,0 +1,66 @@
+{
+  "unversionedId": "Developer/Assistant-SDK/hardware-and-network",
+  "id": "Developer/Assistant-SDK/hardware-and-network",
+  "title": "Configure and Test Audio",
+  "description": "<!--",
+  "source": "@site/docs/Developer/Assistant-SDK/hardware-and-network.md",
+  "sourceDirName": "Developer/Assistant-SDK",
+  "slug": "/Developer/Assistant-SDK/hardware-and-network",
+  "permalink": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/hardware-and-network.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "Google",
+      "permalink": "/portfolio/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Configure and Test Audio",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HBO Max Release Notes",
+    "permalink": "/portfolio/docs/Developer/release-notes"
+  },
+  "next": {
+    "title": "Configure Developer Account and Account Settings",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/developer-account"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "unversionedId": "Developer/Git/gitlab",
+  "id": "Developer/Git/gitlab",
+  "title": "Overview",
+  "description": "This guide provides instructions for establishing a connection with the GitLab repo for the Partner Hub. By the end, you will:",
+  "source": "@site/docs/Developer/Git/gitlab.md",
+  "sourceDirName": "Developer/Git",
+  "slug": "/Developer/Git/gitlab",
+  "permalink": "/portfolio/docs/Developer/Git/gitlab",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/gitlab.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "HBO Gitlab-setup",
+    "sidebar_position": 1,
+    "tags": [
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Run the Sample Code",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code"
+  },
+  "next": {
+    "title": "Getting Started with Git",
+    "permalink": "/portfolio/docs/Developer/Git/git-setup"
+  }
+}

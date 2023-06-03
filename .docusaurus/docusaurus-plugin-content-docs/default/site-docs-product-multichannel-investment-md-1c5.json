@@ -1,0 +1,46 @@
+{
+  "unversionedId": "Product/multichannel-investment",
+  "id": "Product/multichannel-investment",
+  "title": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+  "description": "Here is a link to the published article on Amazon's Advertising site.",
+  "source": "@site/docs/Product/multichannel-investment.md",
+  "sourceDirName": "Product",
+  "slug": "/Product/multichannel-investment",
+  "permalink": "/portfolio/docs/Product/multichannel-investment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Product/multichannel-investment.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/portfolio/docs/tags/data-analytics"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/portfolio/docs/tags/amazon"
+    },
+    {
+      "label": "Advertising",
+      "permalink": "/portfolio/docs/tags/advertising"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+    "sidebar_position": 1,
+    "tags": [
+      "Data Analytics",
+      "Amazon",
+      "Advertising"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mastering Git",
+    "permalink": "/portfolio/docs/Developer/Git/master-git"
+  },
+  "next": {
+    "title": "2 Prime Day Strategies used by Top Performers in 2021",
+    "permalink": "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021"
+  }
+}

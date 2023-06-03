@@ -1,0 +1,56 @@
+{
+  "unversionedId": "Developer/Git/git-setup",
+  "id": "Developer/Git/git-setup",
+  "title": "Overview",
+  "description": "One question frequently asked by aspiring technical writers is: How do I gain the requisite experience? And typically, responders say to join an open source project or something similar. While working on projects is a great way to gain experience, technical writers can also begin simply by setting up their own git-based environement—even if it just used to publish notes or a personal portfolio.",
+  "source": "@site/docs/Developer/Git/git-setup.md",
+  "sourceDirName": "Developer/Git",
+  "slug": "/Developer/Git/git-setup",
+  "permalink": "/portfolio/docs/Developer/Git/git-setup",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/git-setup.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Unix",
+      "permalink": "/portfolio/docs/tags/unix"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Getting Started with Git",
+    "sidebar_position": 2,
+    "tags": [
+      "Git",
+      "Github",
+      "Unix",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HBO Gitlab-setup",
+    "permalink": "/portfolio/docs/Developer/Git/gitlab"
+  },
+  "next": {
+    "title": "Advanced Git Commands",
+    "permalink": "/portfolio/docs/Developer/Git/advanced-git"
+  }
+}

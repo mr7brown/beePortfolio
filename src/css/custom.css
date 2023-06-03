@@ -1,0 +1,229 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+p,
+li,
+code,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: Hind;
+}
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #3369e7;
+  --ifm-color-primary-dark: #3369e7;
+  --ifm-color-primary-darker: #3369e7;
+  --ifm-color-primary-darkest: #3369e7;
+  --ifm-color-primary-light: #3369e7;
+  --ifm-color-primary-lighter: #3369e7;
+  --ifm-color-primary-lightest: #3369e7;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme="dark"] {
+  --ifm-color-primary: #00aeff;
+  --ifm-color-primary-dark: #00aeff;
+  --ifm-color-primary-darker: #00aeff;
+  --ifm-color-primary-darkest: #00aeff;
+  --ifm-color-primary-light: #00aeff;
+  --ifm-color-primary-lighter: #00aeff;
+  --ifm-color-primary-lightest: #00aeff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* .menu::before {
+  content: "Ashton G. Brown Documentation";
+  padding-bottom: 2em;
+  color: #00aeff;
+} */
+
+.navbar__link {
+  color: var(--ifm-toc-link-color);
+}
+
+.navbar__title {
+  color: var(--ifm-toc-link-color);
+}
+
+.markdown h1:first-child {
+  font-size: 2em;
+}
+
+p,
+code {
+  font-size: 16px;
+}
+
+ol li {
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+/* Hero page styling */
+
+p.hero__subtitle {
+  color: white;
+}
+
+h1.hero__title {
+  color: white;
+}
+
+code {
+  color: #3369e7;
+}
+
+[data-theme="dark"] code {
+  color: #00aeff;
+}
+
+.alert {
+  /* border-left-width: var(--ifm-alert-border-left-width); */
+  border-left: 2px solid #3369e7;
+  color: #484c7a !important;
+  border-radius: 0px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+  font-size: 16px;
+}
+
+[data-theme="dark"] .alert {
+  /* border-left-width: var(--ifm-alert-border-left-width); */
+  border-left: 2px solid #3369e7;
+  color: white !important;
+  border-radius: 0px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  background: rgb(72 77 91);
+}
+
+.admonitionIcon_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module
+  svg {
+  display: inline-block;
+  height: 1.6em;
+  width: 1.6em;
+  fill: #3369e7 !important;
+}
+
+[data-theme="dark"].admonitionIcon_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module
+  svg {
+  display: inline-block;
+  height: 1.6em;
+  width: 1.6em;
+  fill: #3369e7 !important;
+}
+
+.admonitionHeading_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module {
+  color: #3369e7;
+  text-transform: uppercase;
+  margin-bottom: 0.3rem;
+}
+
+/* .codeBlockLines_node_modules-\@docusaurus-theme-classic-lib-theme-CodeBlock-Content-styles-module {
+  font: inherit;
+  float: left;
+  min-width: 100%;
+  padding: var(--ifm-pre-padding);
+  background-color: azure;
+} */
+
+/*On page alert styling*/
+
+/* .alert {
+  background-color: #f5f6fa;
+  border: none;
+  box-shadow: 1px 1px 1px 1px #dcdde1;
+  color: rgb(71, 71, 72);
+}
+
+.alert a {
+  color: rgb(71, 71, 72);
+} */
+
+/* .admonitionIcon_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module
+  svg {
+  display: none;
+  height: 1.6em;
+  width: 1.6em;
+  fill: rgb(71, 71, 72) !important;
+} */
+
+/* Sidebar styling */
+
+.menu {
+  font-weight: 300;
+}
+
+.table-of-contents__link {
+  color: var(--ifm-toc-link-color);
+  display: block;
+  font-weight: 300;
+}
+
+article {
+  margin-left: 1em;
+}
+
+/* Release Notes */
+
+.side-by-side {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-overflow: wrap;
+}
+
+.maintenance {
+  display: inline-block;
+  font-size: 80%;
+  padding: 0.5em 1em 0.5em 1em;
+  width: auto;
+  min-width: 9.7em;
+  background-color: #e74c3c;
+  color: white;
+  border-radius: 50px;
+  margin-bottom: 1.5em;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.feature {
+  display: inline-block;
+  font-size: 80%;
+  padding: 0.5em 1em 0.5em 1em;
+  width: auto;
+  min-width: 9.7em;
+  background-color: #27ae60;
+  color: white;
+  border-radius: 50px;
+  margin-bottom: 1.5em;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.fixed {
+  display: inline-block;
+  font-size: 80%;
+  padding: 0.5em 1em 0.5em 1em;
+  width: auto;
+  min-width: 9.7em;
+  background-color: #f39c12;
+  color: white;
+  border-radius: 50px;
+  margin-bottom: 1.5em;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

@@ -1,0 +1,56 @@
+{
+  "unversionedId": "Developer/Git/advanced-git",
+  "id": "Developer/Git/advanced-git",
+  "title": "advanced-git",
+  "description": "Git Shortcuts",
+  "source": "@site/docs/Developer/Git/advanced-git.md",
+  "sourceDirName": "Developer/Git",
+  "slug": "/Developer/Git/advanced-git",
+  "permalink": "/portfolio/docs/Developer/Git/advanced-git",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/advanced-git.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Advanced Git Commands",
+    "sidebar_position": 3,
+    "tags": [
+      "Git",
+      "Github",
+      "Linux",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started with Git",
+    "permalink": "/portfolio/docs/Developer/Git/git-setup"
+  },
+  "next": {
+    "title": "Mastering Git",
+    "permalink": "/portfolio/docs/Developer/Git/master-git"
+  }
+}

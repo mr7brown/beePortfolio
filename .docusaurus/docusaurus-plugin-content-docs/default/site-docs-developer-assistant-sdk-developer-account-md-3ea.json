@@ -1,0 +1,51 @@
+{
+  "unversionedId": "Developer/Assistant-SDK/developer-account",
+  "id": "Developer/Assistant-SDK/developer-account",
+  "title": "Configure Developer Account and Account Settings",
+  "description": "<!--",
+  "source": "@site/docs/Developer/Assistant-SDK/developer-account.md",
+  "sourceDirName": "Developer/Assistant-SDK",
+  "slug": "/Developer/Assistant-SDK/developer-account",
+  "permalink": "/portfolio/docs/Developer/Assistant-SDK/developer-account",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Assistant-SDK/developer-account.md",
+  "tags": [
+    {
+      "label": "Account Configuration",
+      "permalink": "/portfolio/docs/tags/account-configuration"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "Google",
+      "permalink": "/portfolio/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Configure Developer Account and Account Settings",
+    "sidebar_position": 1,
+    "tags": [
+      "Account Configuration",
+      "Google Assistant SDK",
+      "VS Code",
+      "Google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configure and Test Audio",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network"
+  },
+  "next": {
+    "title": "Register the Device Model",
+    "permalink": "/portfolio/docs/Developer/Assistant-SDK/register-device"
+  }
+}

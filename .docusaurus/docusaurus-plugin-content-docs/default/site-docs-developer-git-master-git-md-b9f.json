@@ -1,0 +1,56 @@
+{
+  "unversionedId": "Developer/Git/master-git",
+  "id": "Developer/Git/master-git",
+  "title": "Overview",
+  "description": "At this point in the Git Collection you should understand what Git is and how to use it. This post takes all the lessons learned so far and takes them a step further by looking at branching (which is typical for projects with multiple contributors).",
+  "source": "@site/docs/Developer/Git/master-git.md",
+  "sourceDirName": "Developer/Git",
+  "slug": "/Developer/Git/master-git",
+  "permalink": "/portfolio/docs/Developer/Git/master-git",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developer/Git/master-git.md",
+  "tags": [
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Mastering Git",
+    "sidebar_position": 3,
+    "tags": [
+      "Git",
+      "Github",
+      "Linux",
+      "VS Code",
+      "HBO"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Git Commands",
+    "permalink": "/portfolio/docs/Developer/Git/advanced-git"
+  },
+  "next": {
+    "title": "Multichannel Investments Help Brands Grow in Amazon’s Store",
+    "permalink": "/portfolio/docs/Product/multichannel-investment"
+  }
+}

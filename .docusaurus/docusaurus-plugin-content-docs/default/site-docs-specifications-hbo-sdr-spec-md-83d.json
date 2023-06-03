@@ -1,0 +1,71 @@
+{
+  "unversionedId": "Specifications/HBO-SDR_Spec",
+  "id": "Specifications/HBO-SDR_Spec",
+  "title": "HBO Standard-Definition Range Content Specification",
+  "description": "The purpose of this document is to facilitate and define WarnerMedia's requirements for the successful acquisition of Standard Dynamic Range (SDR) Licensed Content from external parties. This specification establishes the composition and technical requirements for all aspects of the delivery to which external parties must comply to complete the content acquisition process.",
+  "source": "@site/docs/Specifications/HBO-SDR_Spec.md",
+  "sourceDirName": "Specifications",
+  "slug": "/Specifications/HBO-SDR_Spec",
+  "permalink": "/portfolio/docs/Specifications/HBO-SDR_Spec",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Specifications/HBO-SDR_Spec.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/portfolio/docs/tags/jenkins"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "HBO Standard-Definition Range",
+    "sidebar_position": 2,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO",
+      "Jenkins"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HBO Media Manifest Metadata",
+    "permalink": "/portfolio/docs/Specifications/media-manifest-core"
+  },
+  "next": {
+    "title": "UK Small Kitchen Appliances Infographic",
+    "permalink": "/portfolio/docs/Visuals/small-kitchen-appliance"
+  }
+}

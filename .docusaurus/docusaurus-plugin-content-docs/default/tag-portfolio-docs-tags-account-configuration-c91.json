@@ -1,0 +1,14 @@
+{
+  "label": "Account Configuration",
+  "permalink": "/portfolio/docs/tags/account-configuration",
+  "allTagsPath": "/portfolio/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Developer/Assistant-SDK/developer-account",
+      "title": "Configure Developer Account and Account Settings",
+      "description": "<!--",
+      "permalink": "/portfolio/docs/Developer/Assistant-SDK/developer-account"
+    }
+  ]
+}
