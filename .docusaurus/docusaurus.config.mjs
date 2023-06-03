@@ -16,10 +16,10 @@ export default {
   "deploymentBranch": "gh-pages",
   "themeConfig": {
     "navbar": {
-      "title": "Home",
+      "title": "",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.png"
+        "src": "img/logoB.svg"
       },
       "items": [
         {
@@ -43,7 +43,47 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "links": [],
+      "links": [
+        {
+          "title": "Docs",
+          "items": [
+            {
+              "label": "Portfolio",
+              "to": "/docs/intro"
+            }
+          ]
+        },
+        {
+          "title": "Community",
+          "items": [
+            {
+              "label": "Stack Overflow",
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+            },
+            {
+              "label": "Discord",
+              "href": "https://discordapp.com/invite/docusaurus"
+            },
+            {
+              "label": "Twitter",
+              "href": "https://twitter.com/docusaurus"
+            }
+          ]
+        },
+        {
+          "title": "More",
+          "items": [
+            {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/facebook/docusaurus"
+            }
+          ]
+        }
+      ],
       "copyright": "Copyright © 2023 Bhavya Suri"
     },
     "prism": {
