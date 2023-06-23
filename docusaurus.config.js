@@ -19,7 +19,8 @@ const config = {
   deploymentBranch: "gh-pages",
   themeConfig: {
     algolia: {
-      apiKey:       indexName: "",
+      apiKey: "",
+      indexName: "",
       contextualSearch: true,
       placeholder: "Search Bhavya's portfolio",
     },
