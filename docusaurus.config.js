@@ -11,16 +11,15 @@ const config = {
     " As a versatile and accomplished medical writer, I bring expertise in various writing styles, from highly scientific research manuscripts to clinical practice guidelines, media-focused pieces, and more. With a solid understanding of medicine and clinical agent administration, I am adept at guiding scientific work creation and collaborating with volunteer leaders and medical writing teams.",
   favicon: "img/favicon.ico",
   url: "https://github.com",
-  baseUrl: "/portfolio/", // Update baseURL to Github path.
+  baseUrl: "/beePortfolio/", // Update baseURL to Github path.
   organizationName: "mr7brown", // Usually your GitHub org/username.
-  projectName: "portfolio", // Usually your repo name.
+  projectName: "beePortfolio", // Usually your repo name.
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   deploymentBranch: "gh-pages",
   themeConfig: {
     algolia: {
-      apiKey: "",
-      indexName: "",
+      apiKey:       indexName: "",
       contextualSearch: true,
       placeholder: "Search Bhavya's portfolio",
     },

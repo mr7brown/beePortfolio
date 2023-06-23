@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/portfolio/__docusaurus/debug',
-    component: ComponentCreator('/portfolio/__docusaurus/debug', 'd2a'),
-    exact: true
-  },
-  {
-    path: '/portfolio/__docusaurus/debug/config',
-    component: ComponentCreator('/portfolio/__docusaurus/debug/config', '14f'),
-    exact: true
-  },
-  {
-    path: '/portfolio/__docusaurus/debug/content',
-    component: ComponentCreator('/portfolio/__docusaurus/debug/content', 'd75'),
-    exact: true
-  },
-  {
-    path: '/portfolio/__docusaurus/debug/globalData',
-    component: ComponentCreator('/portfolio/__docusaurus/debug/globalData', 'e82'),
-    exact: true
-  },
-  {
-    path: '/portfolio/__docusaurus/debug/metadata',
-    component: ComponentCreator('/portfolio/__docusaurus/debug/metadata', 'a7c'),
-    exact: true
-  },
-  {
-    path: '/portfolio/__docusaurus/debug/registry',
-    component: ComponentCreator('/portfolio/__docusaurus/debug/registry', '095'),
-    exact: true
-  },
-  {
-    path: '/portfolio/__docusaurus/debug/routes',
-    component: ComponentCreator('/portfolio/__docusaurus/debug/routes', 'a18'),
-    exact: true
-  },
-  {
     path: '/portfolio/blog',
     component: ComponentCreator('/portfolio/blog', 'b3f'),
     exact: true

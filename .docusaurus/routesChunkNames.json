@@ -1,409 +1,366 @@
 {
-  "/portfolio/__docusaurus/debug-d2a": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
-    }
-  },
-  "/portfolio/__docusaurus/debug/config-14f": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
-    }
-  },
-  "/portfolio/__docusaurus/debug/content-d75": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
-    },
-    "allContent": "allContent---portfolio-docusaurus-debug-content-246-3d7"
-  },
-  "/portfolio/__docusaurus/debug/globalData-e82": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
-    }
-  },
-  "/portfolio/__docusaurus/debug/metadata-a7c": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
-    }
-  },
-  "/portfolio/__docusaurus/debug/registry-095": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
-    }
-  },
-  "/portfolio/__docusaurus/debug/routes-a18": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---portfolio-docusaurus-debug-67-e-466"
-    }
-  },
   "/portfolio/blog-b3f": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---portfolio-blog-766-63c"
+        "content": "7661071f"
       },
       {
-        "content": "content---portfolio-blogf-4-f-62a"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---portfolio-blog-871-6e7"
+        "content": "8717b14a"
       },
       {
-        "content": "content---portfolio-blog-925-d05"
+        "content": "925b3f96"
       }
     ],
-    "metadata": "metadata---portfolio-blog-78-a-92f"
+    "metadata": "78aa0b20"
   },
   "/portfolio/blog/archive-ce4": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "archive": "archive---portfolio-blog-archive-9-de-6c6"
+    "archive": "9de5c705"
   },
   "/portfolio/blog/first-blog-post-1e7": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
-    "content": "content---portfolio-blog-first-blog-poste-27-7fb"
+    "sidebar": "814f3328",
+    "content": "e273c56f"
   },
   "/portfolio/blog/long-blog-post-ad1": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
-    "content": "content---portfolio-blog-long-blog-post-736-cae"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
   "/portfolio/blog/mdx-blog-post-81f": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
-    "content": "content---portfolio-blog-mdx-blog-post-593-38e"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
   "/portfolio/blog/tags-144": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
-    "tags": "tags---portfolio-blog-tagsfc-4-ea6"
+    "sidebar": "814f3328",
+    "tags": "fc432142"
   },
   "/portfolio/blog/tags/docusaurus-b70": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---portfolio-blog-766-63c"
+        "content": "7661071f"
       },
       {
-        "content": "content---portfolio-blogf-4-f-62a"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---portfolio-blog-871-6e7"
+        "content": "8717b14a"
       },
       {
-        "content": "content---portfolio-blog-925-d05"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---portfolio-blog-tags-docusaurusa-05-230",
-    "listMetadata": "listMetadata---portfolio-blog-tags-docusaurus-7-e-9-6f8"
+    "tag": "a05278fb",
+    "listMetadata": "7e91435e"
   },
   "/portfolio/blog/tags/facebook-1f3": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---portfolio-blog-766-63c"
+        "content": "7661071f"
       }
     ],
-    "tag": "tag---portfolio-blog-tags-facebook-66-c-8d9",
-    "listMetadata": "listMetadata---portfolio-blog-tags-facebookcb-0-c11"
+    "tag": "66cfed35",
+    "listMetadata": "cb0c21d8"
   },
   "/portfolio/blog/tags/hello-66b": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---portfolio-blog-766-63c"
+        "content": "7661071f"
       },
       {
-        "content": "content---portfolio-blog-871-6e7"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---portfolio-blog-tags-hello-6-c-4-40a",
-    "listMetadata": "listMetadata---portfolio-blog-tags-hello-991-b2c"
+    "tag": "6c435a8f",
+    "listMetadata": "9919fb30"
   },
   "/portfolio/blog/tags/hola-ab1": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---portfolio-blog-925-d05"
+        "content": "925b3f96"
       }
     ],
-    "tag": "tag---portfolio-blog-tags-holab-20-e78",
-    "listMetadata": "listMetadata---portfolio-blog-tags-holacbd-104"
+    "tag": "b201e6db",
+    "listMetadata": "cbd82468"
   },
   "/portfolio/blog/welcome-3da": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---portfolio-blogc-5-e-873"
+      "plugin": "c5ec962b"
     },
-    "sidebar": "sidebar---portfolio-blog-814-da6",
-    "content": "content---portfolio-blog-welcomed-9-f-524"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
   "/portfolio/docs/tags-717": {
-    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__comp": "3720c009",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tags": "tags---portfolio-docs-tags-559-b75"
+    "tags": "55960ee5"
   },
   "/portfolio/docs/tags/adobe-illustrator-fb5": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-adobe-illustratorc-4-e-d1c"
+    "tag": "c4eb0ac8"
   },
   "/portfolio/docs/tags/adobe-in-design-aed": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-adobe-in-design-3-ce-71c"
+    "tag": "3ce930f5"
   },
   "/portfolio/docs/tags/advertising-e50": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-advertising-8-e-2-ad5"
+    "tag": "8e2bf67e"
   },
   "/portfolio/docs/tags/amazon-1f9": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-amazondf-1-3c3"
+    "tag": "df1d5746"
   },
   "/portfolio/docs/tags/api-1d1": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-api-00-a-369"
+    "tag": "00ae5ad0"
   },
   "/portfolio/docs/tags/cicd-71e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-cicd-8-f-0-0ac"
+    "tag": "8f092ed2"
   },
   "/portfolio/docs/tags/data-analytics-b2e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-data-analytics-0-d-2-8e2"
+    "tag": "0d222be4"
   },
   "/portfolio/docs/tags/data-visualization-ad8": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-data-visualizatione-24-48f"
+    "tag": "e24ce5ad"
   },
   "/portfolio/docs/tags/docs-as-code-549": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-docs-as-code-763-e2f"
+    "tag": "76361e9e"
   },
   "/portfolio/docs/tags/facebook-603": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-facebook-032-e01"
+    "tag": "0327c404"
   },
   "/portfolio/docs/tags/git-bab": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-git-015-57e"
+    "tag": "015c9d98"
   },
   "/portfolio/docs/tags/github-7a1": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-github-22-d-fe7"
+    "tag": "22dd0c32"
   },
   "/portfolio/docs/tags/google-96a": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-google-15-f-8d0"
+    "tag": "15f71e0e"
   },
   "/portfolio/docs/tags/google-assistant-sdk-310": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-google-assistant-sdk-67-c-c35"
+    "tag": "67cc3b10"
   },
   "/portfolio/docs/tags/hbo-712": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-hbo-4-cd-c8a"
+    "tag": "4cd41222"
   },
   "/portfolio/docs/tags/infographic-dab": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-infographicc-37-bd3"
+    "tag": "c37434a5"
   },
   "/portfolio/docs/tags/jenkins-b5f": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-jenkins-7-a-6-4cb"
+    "tag": "7a683e32"
   },
   "/portfolio/docs/tags/linux-cde": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-linux-5-f-3-548"
+    "tag": "5f32db8e"
   },
   "/portfolio/docs/tags/raspberry-pi-947": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-raspberry-pi-4-f-6-081"
+    "tag": "4f617108"
   },
   "/portfolio/docs/tags/sdk-041": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-sdk-247-6ac"
+    "tag": "2475b18f"
   },
   "/portfolio/docs/tags/vs-code-df9": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__comp": "df203c0f",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "tag": "tag---portfolio-docs-tags-vs-code-1-aa-4f6"
+    "tag": "1aa45697"
   },
   "/portfolio/markdown-page-48a": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---portfolio-markdown-page-2-d-1-532"
+      "plugin": "2d1d91dc"
     },
-    "content": "content---portfolio-markdown-page-393-99e"
+    "content": "393be207"
   },
   "/portfolio/docs-100": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
+      "plugin": "fe1fb9fc"
     },
-    "versionMetadata": "versionMetadata---portfolio-docs-935-613"
+    "versionMetadata": "935f2afb"
   },
   "/portfolio/docs/Articles/MSDietaryJourney-8d1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-articles-ms-dietary-journeybcb-cb5"
+    "__comp": "17896441",
+    "content": "bcbc2cac"
   },
   "/portfolio/docs/Articles/MSFallFeasting-230": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-articles-ms-fall-feasting-565-1af"
+    "__comp": "17896441",
+    "content": "5658f39f"
   },
   "/portfolio/docs/Articles/MSNextAdventure-98c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-articles-ms-next-adventure-06-c-af2"
+    "__comp": "17896441",
+    "content": "06ce14d8"
   },
   "/portfolio/docs/Articles/MSSpecialistsPartinCare-512": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-articles-ms-specialists-partin-carec-8-d-e1b"
+    "__comp": "17896441",
+    "content": "c8da9e60"
   },
   "/portfolio/docs/Articles/MSStem-297": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-articles-ms-stema-49-fd2"
+    "__comp": "17896441",
+    "content": "a490df40"
   },
   "/portfolio/docs/Articles/MSTravel-1d0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-articles-ms-travel-61-a-adb"
+    "__comp": "17896441",
+    "content": "61abca69"
   },
   "/portfolio/docs/intro-b23": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-intro-0-e-3-586"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/portfolio/docs/Studies/commonVirus-374": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-studies-common-virus-59-f-8a2"
+    "__comp": "17896441",
+    "content": "59f2b353"
   },
   "/portfolio/docs/Studies/GERD-e03": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-studies-ger-db-1-e-3ca"
+    "__comp": "17896441",
+    "content": "b1edfa6d"
   },
   "/portfolio/docs/Studies/IllnessPerceptions-2ac": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-studies-illness-perceptions-427-2f2"
+    "__comp": "17896441",
+    "content": "42732989"
   },
   "/portfolio/docs/Studies/mappingandAblation-487": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-studies-mappingand-ablation-727-f1f"
+    "__comp": "17896441",
+    "content": "727ba660"
   },
   "/portfolio/docs/Studies/msPregnancy-1d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-studies-ms-pregnancy-1-b-7-5ee"
+    "__comp": "17896441",
+    "content": "1b75b58c"
   },
   "/portfolio/docs/Studies/StudyMSRisk-d92": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-studies-study-ms-risk-7-a-2-7ea"
+    "__comp": "17896441",
+    "content": "7a23119c"
   },
   "/portfolio/-87b": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---portfolio-markdown-page-2-d-1-532"
+      "plugin": "2d1d91dc"
     },
-    "config": "config---portfolio-5-e-9-9af"
+    "config": "5e9f5e1a"
   }
 }
