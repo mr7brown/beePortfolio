@@ -1,0 +1,22 @@
+---
+sidebar_label: "Life with MS—How to Ready for your Next Adventure"
+# sidebar_position:
+---
+
+# Tech Support for your Dietary Journey
+
+Now that airlines are fully functioning again and countries have allowed traveling to resume, it is time to pack your bags and pick the next location you want to visit. At first, the sound of traveling on an airline may seem daunting because a worldwide pandemic is still out in the air, but with these tips you will be more prepared.
+
+Living with MS means having to be extra cautious throughout your travel plans. Whether this is knowing what to pack, picking a destination that is better suited for you, packing specific types of clothing, or just having a plan in place to help you navigate the airport security lines better. Here are some recommendations and shared experiences from people currently living with MS but also finding ways to fulfill their desire for traveling.
+
+**Stacie:** My mom had MS and I always suggest planning your trip in advance and always have a backup plan. Things can change daily with your body and mood. I had to plan extra time during the trips for her, like bathroom stops every now and then. Having urinary incontinence means always having to be ready for anything, so I like to pack a change of clothes just in case. I also want to thank the cooling vest program for helping me during my travel. Having heat intolerance means I need to find ways to cool my mom down and the vest helps. I always like having something to drink to keep her hydrated as well.
+
+**Dan and Jen:** Dan has relapsing MS and I have progressive MS. Dan can still walk, and I am in the wheelchair now. We make a great team, and I couldn’t have done anything without Dan being my caregiver. Now, this may not be for everyone but, before we travel, we eat more salty foods so we can retain water so that we don’t have to go to the bathroom as often…since stopping for bathroom breaks can be inconvenient. If we are taking a road trip, we’ll get a pizza, eat some that night, and take the leftovers for lunch to our trip. We try to break up the drive. Our most recent trip was to Washington, D.C, and this was the first flight we’ve taken since the pandemic. I can’t use the airplane bathroom because it is small, so I recommend wearing Depends just in case of urinary incontinence.
+
+**Traci Ceras:** I switched to an oral DMT, so I always have to make sure I have my pill box with me at all times. I always make sure I book a wheelchair for the airline, both departing and arriving. When I travel on cruise ships, I make sure I have a room booked that is compliant with the American Disabilities Act. I sometimes have muscle spasms and am known to kick seats, so I try and get a bulkhead seat, but it has become difficult lately. Now, I purchase a premium economy ticket and must carry a travel cane just in case of emergencies.
+
+**Helen Bisdorf:** I am very fortunate that my MS has not hindered my travel plans. I have no issues, but I do recommend to always carry your medication on you and to stay hydrated.
+
+**Emily and Andrea of Oscar the MS Monkey:** When flying, I make sure medication is in my carry-on – never put it in a checked bag. Always expect the unexpected, plan for any emergencies, and make sure your essential daily things are packed in a carry-on. Be sure to follow the demands of your body and make sure there is air conditioning in the room reservation – it is not doable in July without it. I highly recommend getting TSA PreCheck, so you don’t have to be waiting in security lines and you don’t have to take your shoes off. Enjoy what you can do and what you can see.
+
+**Cherie Binns:** If you are traveling by land, map out places to take rest and restroom breaks. Guidebooks and Google can be very helpful with this. I still find that an old-fashioned road map and AAA Travel Guide can be very helpful at letting me know what stops may provide more than a place to stretch my legs and use the bathroom. If you are traveling by air or rail, it is good to check with a travel agent for helpful hints. Pack supplies in your carry-on. Never pack your medications or injections, CPAP, or catheters in your checked luggage. Always carry an extra week’s supply with you, particularly in this time when COVID-19 can derail even the best-planned trips with a period of feeling too poorly to continue your trip or may require a period of isolation.

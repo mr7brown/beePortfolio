@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Studies/small-kitchen-appliance",
+  "id": "Studies/small-kitchen-appliance",
+  "title": "Measuring the effect of illness perceptions on caregivers",
+  "description": "Survey to measure effect of illness perceptions on caregivers",
+  "source": "@site/docs/Studies/small-kitchen-appliance.md",
+  "sourceDirName": "Studies",
+  "slug": "/Studies/small-kitchen-appliance",
+  "permalink": "/portfolio/docs/Studies/small-kitchen-appliance",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Studies/small-kitchen-appliance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Measuring the effect of illness perceptions on caregivers",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gastroesophageal Reflux Disease and Treatments",
+    "permalink": "/portfolio/docs/Google-Trends/GERD"
+  },
+  "next": {
+    "title": "Study IDs key factor that shapes MS risk",
+    "permalink": "/portfolio/docs/Studies/StudyMSRisk"
+  }
+}

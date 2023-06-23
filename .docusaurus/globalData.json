@@ -11,53 +11,33 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Developer/Assistant-SDK/developer-account",
-              "path": "/portfolio/docs/Developer/Assistant-SDK/developer-account",
+              "id": "Articles/MSDietaryJourney",
+              "path": "/portfolio/docs/Articles/MSDietaryJourney",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Developer/Assistant-SDK/hardware-and-network",
-              "path": "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network",
+              "id": "Articles/MSFallFeasting",
+              "path": "/portfolio/docs/Articles/MSFallFeasting",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Developer/Assistant-SDK/install-sdk",
-              "path": "/portfolio/docs/Developer/Assistant-SDK/install-sdk",
+              "id": "Articles/MSNextAdventure",
+              "path": "/portfolio/docs/Articles/MSNextAdventure",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Developer/Assistant-SDK/register-device",
-              "path": "/portfolio/docs/Developer/Assistant-SDK/register-device",
+              "id": "Articles/MSSpecialistsPartinCare",
+              "path": "/portfolio/docs/Articles/MSSpecialistsPartinCare",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Developer/Assistant-SDK/run-sample-code",
-              "path": "/portfolio/docs/Developer/Assistant-SDK/run-sample-code",
+              "id": "Articles/MSStem",
+              "path": "/portfolio/docs/Articles/MSStem",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Developer/Git/advanced-git",
-              "path": "/portfolio/docs/Developer/Git/advanced-git",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer/Git/git-setup",
-              "path": "/portfolio/docs/Developer/Git/git-setup",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer/Git/gitlab",
-              "path": "/portfolio/docs/Developer/Git/gitlab",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer/Git/master-git",
-              "path": "/portfolio/docs/Developer/Git/master-git",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Developer/release-notes",
-              "path": "/portfolio/docs/Developer/release-notes",
+              "id": "Articles/MSTravel",
+              "path": "/portfolio/docs/Articles/MSTravel",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -66,38 +46,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product/2 Prime Day Strategies used by Top Performers in 2021",
-              "path": "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021",
+              "id": "Studies/commonVirus",
+              "path": "/portfolio/docs/Studies/commonVirus",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product/cross-category-ads",
-              "path": "/portfolio/docs/Product/cross-category-ads",
+              "id": "Studies/GERD",
+              "path": "/portfolio/docs/Studies/GERD",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Product/multichannel-investment",
-              "path": "/portfolio/docs/Product/multichannel-investment",
+              "id": "Studies/IllnessPerceptions",
+              "path": "/portfolio/docs/Studies/IllnessPerceptions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Specifications/HBO-SDR_Spec",
-              "path": "/portfolio/docs/Specifications/HBO-SDR_Spec",
+              "id": "Studies/mappingandAblation",
+              "path": "/portfolio/docs/Studies/mappingandAblation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Specifications/media-manifest-core",
-              "path": "/portfolio/docs/Specifications/media-manifest-core",
+              "id": "Studies/msPregnancy",
+              "path": "/portfolio/docs/Studies/msPregnancy",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Visuals/fb-business-model",
-              "path": "/portfolio/docs/Visuals/fb-business-model",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Visuals/small-kitchen-appliance",
-              "path": "/portfolio/docs/Visuals/small-kitchen-appliance",
+              "id": "Studies/StudyMSRisk",
+              "path": "/portfolio/docs/Studies/StudyMSRisk",
               "sidebar": "tutorialSidebar"
             }
           ],

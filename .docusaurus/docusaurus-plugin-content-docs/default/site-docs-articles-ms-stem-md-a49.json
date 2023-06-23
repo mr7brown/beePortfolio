@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Articles/MSStem",
+  "id": "Articles/MSStem",
+  "title": "New Stem Cell Therapy Aims at Repair",
+  "description": "Science and medicine have come a long way since multiple sclerosis was first considered a diagnosis in the 1800s. Since that time, we have advanced to many different types of therapies. One of the newest treatments available is stem cell therapy.",
+  "source": "@site/docs/Articles/MSStem.md",
+  "sourceDirName": "Articles",
+  "slug": "/Articles/MSStem",
+  "permalink": "/portfolio/docs/Articles/MSStem",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Articles/MSStem.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Life with MS—New Stem Cell Therapy Aims at Repair",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/portfolio/docs/intro"
+  },
+  "next": {
+    "title": "Life with MS—Tech Support for your Dietary Journey",
+    "permalink": "/portfolio/docs/Articles/MSDietaryJourney"
+  }
+}

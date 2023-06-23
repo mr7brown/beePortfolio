@@ -1,0 +1,46 @@
+{
+  "unversionedId": "Google-Trends/cross-category-ads",
+  "id": "Google-Trends/cross-category-ads",
+  "title": "How cross-category ads improve reach for coffee advertisers",
+  "description": "Here is a link to the published article on Amazon's Advertising site.",
+  "source": "@site/docs/Google-Trends/cross-category-ads.md",
+  "sourceDirName": "Google-Trends",
+  "slug": "/Google-Trends/cross-category-ads",
+  "permalink": "/portfolio/docs/Google-Trends/cross-category-ads",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google-Trends/cross-category-ads.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/portfolio/docs/tags/data-analytics"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/portfolio/docs/tags/amazon"
+    },
+    {
+      "label": "Advertising",
+      "permalink": "/portfolio/docs/tags/advertising"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "How cross-category ads improve reach for coffee advertisers",
+    "sidebar_position": 3,
+    "tags": [
+      "Data Analytics",
+      "Amazon",
+      "Advertising"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2 Prime Day Strategies used by Top Performers in 2021",
+    "permalink": "/portfolio/docs/Google-Trends/2 Prime Day Strategies used by Top Performers in 2021"
+  },
+  "next": {
+    "title": "HBO Media Manifest Metadata",
+    "permalink": "/portfolio/docs/Specifications/media-manifest-core"
+  }
+}

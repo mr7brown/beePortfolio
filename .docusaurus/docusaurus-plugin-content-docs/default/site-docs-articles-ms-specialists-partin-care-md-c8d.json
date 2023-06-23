@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Articles/MSSpecialistsPartinCare",
+  "id": "Articles/MSSpecialistsPartinCare",
+  "title": "Specialists Play a Part in Care",
+  "description": "Getting diagnosed with multiple sclerosis is life-changing and can require an entire village to get through. Part of this village is all the loved ones who support you. The other part is the medical team, including your physicians, all with different specialties because the disease itself causes symptoms in different areas. Some of the most common specialty physicians that people with MS use are neurologists, physical therapists, and occupational therapists. But what about the other specialty physicians we often don’t think about as options? Specialties such as a speech pathologist, a psychologist, a physiatrist, or even a dietician can all play a role in assisting the journey of MS.",
+  "source": "@site/docs/Articles/MSSpecialistsPartinCare.md",
+  "sourceDirName": "Articles",
+  "slug": "/Articles/MSSpecialistsPartinCare",
+  "permalink": "/portfolio/docs/Articles/MSSpecialistsPartinCare",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Articles/MSSpecialistsPartinCare.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Life with MS—Specialists Play a Part in Care"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Life with MS—How to Ready for your Next Adventure",
+    "permalink": "/portfolio/docs/Articles/MSNextAdventure"
+  },
+  "next": {
+    "title": "Life with MS—Where Are You Traveling Next?",
+    "permalink": "/portfolio/docs/Articles/MSTravel"
+  }
+}

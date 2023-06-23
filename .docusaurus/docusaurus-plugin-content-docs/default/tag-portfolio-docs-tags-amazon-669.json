@@ -2,30 +2,18 @@
   "label": "Amazon",
   "permalink": "/portfolio/docs/tags/amazon",
   "allTagsPath": "/portfolio/docs/tags",
-  "count": 4,
+  "count": 2,
   "items": [
     {
-      "id": "Product/2 Prime Day Strategies used by Top Performers in 2021",
-      "title": "2 Prime Day ad strategies used by top performers in 2021",
+      "id": "Studies/GERD",
+      "title": "Gastroesophageal Reflux Disease and Treatments",
       "description": "Here is a link to the published article on Amazon's Advertising site.",
-      "permalink": "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021"
-    },
-    {
-      "id": "Product/cross-category-ads",
-      "title": "How cross-category ads improve reach for coffee advertisers",
-      "description": "Here is a link to the published article on Amazon's Advertising site.",
-      "permalink": "/portfolio/docs/Product/cross-category-ads"
-    },
-    {
-      "id": "Product/multichannel-investment",
-      "title": "Multichannel Investments Help Brands Grow in Amazon’s Store",
-      "description": "Here is a link to the published article on Amazon's Advertising site.",
-      "permalink": "/portfolio/docs/Product/multichannel-investment"
+      "permalink": "/portfolio/docs/Studies/GERD"
     },
     {
       "id": "intro",
       "title": "Welcome to Bhavya's Portfolio",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique venenatis dolor, eget fermentum metus vehicula a. Aliquam eu ultrices urna. Maecenas interdum lobortis purus, nec dignissim lacus tincidunt vel. Donec hendrerit tellus eget tempor euismod. Fusce auctor mi vel erat aliquam, in facilisis urna luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean bibendum sollicitudin elit, a pharetra ex condimentum ac.",
+      "description": "With a strong background in medical writing and research, I have successfully contributed to publications, including research articles, educational materials, and clinical studies, all resulting in increased visibility for organizations and foundations. My skills encompass learning module development, grant writing, and project management, allowing me to provide comprehensive support throughout the publication process. With an in-depth knowledge of regulatory affairs, clinical trial protocols, and medical terminology, I am committed to delivering high-quality, accurate, and impactful scientific content.",
       "permalink": "/portfolio/docs/intro"
     }
   ]

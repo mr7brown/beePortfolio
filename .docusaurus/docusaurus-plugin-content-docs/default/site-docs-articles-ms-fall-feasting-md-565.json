@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Articles/MSFallFeasting",
+  "id": "Articles/MSFallFeasting",
+  "title": "Making Fall Feasting Enjoyable",
+  "description": "Fall is the time to watch the leaves change colors, feel the cool crisp air, and to start thinking about all the warm home-cooked meals filled with differently spiced aromas. For some, it is the time to start planning which different meals to cook during the gatherings they will be hosting. For others, it is the time to start thinking and planning which events they will be attending or politely declining.",
+  "source": "@site/docs/Articles/MSFallFeasting.md",
+  "sourceDirName": "Articles",
+  "slug": "/Articles/MSFallFeasting",
+  "permalink": "/portfolio/docs/Articles/MSFallFeasting",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Articles/MSFallFeasting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Living with MS—Making Fall Feasting Enjoyable"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Life with MS—Tech Support for your Dietary Journey",
+    "permalink": "/portfolio/docs/Articles/MSDietaryJourney"
+  },
+  "next": {
+    "title": "Life with MS—How to Ready for your Next Adventure",
+    "permalink": "/portfolio/docs/Articles/MSNextAdventure"
+  }
+}

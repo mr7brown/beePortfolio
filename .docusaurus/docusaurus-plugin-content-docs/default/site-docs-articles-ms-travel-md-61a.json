@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Articles/MSTravel",
+  "id": "Articles/MSTravel",
+  "title": "Where are you Traveling Next?",
+  "description": "For some, the thought of traveling might be anxiety-provoking. So much so, that you’d rather sit at home and maybe try some other day. One of the hardest parts of traveling is the initial planning. This should be an exciting time filled with enthusiasm rather than anxiety. So, where do you start this planning process? Let’s pick a location first and then the remainder of the planning should be an easy transition.",
+  "source": "@site/docs/Articles/MSTravel.md",
+  "sourceDirName": "Articles",
+  "slug": "/Articles/MSTravel",
+  "permalink": "/portfolio/docs/Articles/MSTravel",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Articles/MSTravel.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Life with MS—Where Are You Traveling Next?"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Life with MS—Specialists Play a Part in Care",
+    "permalink": "/portfolio/docs/Articles/MSSpecialistsPartinCare"
+  },
+  "next": {
+    "title": "Gastroesophageal Reflux Disease and Treatments",
+    "permalink": "/portfolio/docs/Studies/GERD"
+  }
+}

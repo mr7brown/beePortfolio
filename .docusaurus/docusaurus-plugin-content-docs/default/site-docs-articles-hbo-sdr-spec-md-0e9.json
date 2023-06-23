@@ -1,0 +1,71 @@
+{
+  "unversionedId": "Articles/HBO-SDR_Spec",
+  "id": "Articles/HBO-SDR_Spec",
+  "title": "HBO Standard-Definition Range Content Specification",
+  "description": "Eighty-four percent of the people in America",
+  "source": "@site/docs/Articles/HBO-SDR_Spec.md",
+  "sourceDirName": "Articles",
+  "slug": "/Articles/HBO-SDR_Spec",
+  "permalink": "/portfolio/docs/Articles/HBO-SDR_Spec",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Articles/HBO-SDR_Spec.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/portfolio/docs/tags/jenkins"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "HBO Standard-Definition Range",
+    "sidebar_position": 2,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO",
+      "Jenkins"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HBO Media Manifest Metadata",
+    "permalink": "/portfolio/docs/Articles/media-manifest-core"
+  },
+  "next": {
+    "title": "Gastroesophageal Reflux Disease and Treatments",
+    "permalink": "/portfolio/docs/Google-Trends/GERD"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Studies/msPregnancy",
+  "id": "Studies/msPregnancy",
+  "title": "Gene networks point to MS dampening effect during pregnancy",
+  "description": "Women with multiple sclerosis temporarily get better when pregnant. A new study has identified the beneficial changes naturally occurring in the immune system during pregnancy. The findings may show the way to new treatments.",
+  "source": "@site/docs/Studies/msPregnancy.md",
+  "sourceDirName": "Studies",
+  "slug": "/Studies/msPregnancy",
+  "permalink": "/portfolio/docs/Studies/msPregnancy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Studies/msPregnancy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Gene networks point to MS dampening effect during pregnancy",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mapping and Ablation an Atrial Tachycardia Determined to be Originating from the Interatrial Septal Region",
+    "permalink": "/portfolio/docs/Studies/mappingandAblation"
+  },
+  "next": {
+    "title": "Study IDs key factor that shapes MS risk",
+    "permalink": "/portfolio/docs/Studies/StudyMSRisk"
+  }
+}

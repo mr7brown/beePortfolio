@@ -1,0 +1,46 @@
+{
+  "unversionedId": "Google-Trends/multichannel-investment",
+  "id": "Google-Trends/multichannel-investment",
+  "title": "Gastroesophageal Reflux Disease and Treatments",
+  "description": "Here is a link to the published article on Amazon's Advertising site.",
+  "source": "@site/docs/Google-Trends/multichannel-investment.md",
+  "sourceDirName": "Google-Trends",
+  "slug": "/Google-Trends/multichannel-investment",
+  "permalink": "/portfolio/docs/Google-Trends/multichannel-investment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google-Trends/multichannel-investment.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/portfolio/docs/tags/data-analytics"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/portfolio/docs/tags/amazon"
+    },
+    {
+      "label": "Advertising",
+      "permalink": "/portfolio/docs/tags/advertising"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Gastroesophageal Reflux Disease and Treatments",
+    "sidebar_position": 1,
+    "tags": [
+      "Data Analytics",
+      "Amazon",
+      "Advertising"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/portfolio/docs/intro"
+  },
+  "next": {
+    "title": "2 Prime Day Strategies used by Top Performers in 2021",
+    "permalink": "/portfolio/docs/Google-Trends/2 Prime Day Strategies used by Top Performers in 2021"
+  }
+}

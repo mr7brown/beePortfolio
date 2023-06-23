@@ -17,7 +17,7 @@ h5 {
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #3369e7;
+  --ifm-color-primary: #ed1703;
   --ifm-color-primary-dark: #3369e7;
   --ifm-color-primary-darker: #3369e7;
   --ifm-color-primary-darkest: #3369e7;
@@ -30,7 +30,7 @@ h5 {
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme="dark"] {
-  --ifm-color-primary: #00aeff;
+  --ifm-color-primary: #ed1703;
   --ifm-color-primary-dark: #00aeff;
   --ifm-color-primary-darker: #00aeff;
   --ifm-color-primary-darkest: #00aeff;
@@ -95,7 +95,7 @@ code {
 
 .alert {
   /* border-left-width: var(--ifm-alert-border-left-width); */
-  border-left: 2px solid #3369e7;
+  border-left: 2px solid #ed1703;
   color: #484c7a !important;
   border-radius: 0px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -105,7 +105,7 @@ code {
 
 [data-theme="dark"] .alert {
   /* border-left-width: var(--ifm-alert-border-left-width); */
-  border-left: 2px solid #3369e7;
+  border-left: 2px solid #ed1703;
   color: white !important;
   border-radius: 0px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -117,7 +117,7 @@ code {
   display: inline-block;
   height: 1.6em;
   width: 1.6em;
-  fill: #3369e7 !important;
+  fill: #ed1703 !important;
 }
 
 [data-theme="dark"].admonitionIcon_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module
@@ -125,11 +125,11 @@ code {
   display: inline-block;
   height: 1.6em;
   width: 1.6em;
-  fill: #3369e7 !important;
+  fill: #ed1703 !important;
 }
 
 .admonitionHeading_node_modules-\@docusaurus-theme-classic-lib-theme-Admonition-styles-module {
-  color: #3369e7;
+  color: #ed1703;
   text-transform: uppercase;
   margin-bottom: 0.3rem;
 }

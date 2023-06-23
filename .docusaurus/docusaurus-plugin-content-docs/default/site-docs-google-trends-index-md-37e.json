@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Google-Trends/index",
+  "id": "Google-Trends/index",
+  "title": "Overview",
+  "description": "",
+  "source": "@site/docs/Google-Trends/index.md",
+  "sourceDirName": "Google-Trends",
+  "slug": "/Google-Trends/",
+  "permalink": "/portfolio/docs/Google-Trends/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google-Trends/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Google Trends Research",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/portfolio/docs/intro"
+  },
+  "next": {
+    "title": "Gastroesophageal Reflux Disease and Treatments",
+    "permalink": "/portfolio/docs/Google-Trends/multichannel-investment"
+  }
+}

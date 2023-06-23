@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Bhavya Suri | Tech Writing Portfolio",
-  "tagline": "For the past decade, I've published technical documentation—from API & SDK docs to specifications & product documentation. And everything in-between. Here is a collection of my most impactful work.",
+  "title": "Bhavya Suri | Portfolio",
+  "tagline": " As a versatile and accomplished medical writer, I bring expertise in various writing styles, from highly scientific research manuscripts to clinical practice guidelines, media-focused pieces, and more. With a solid understanding of medicine and clinical agent administration, I am adept at guiding scientific work creation and collaborating with volunteer leaders and medical writing teams.",
   "favicon": "img/favicon.ico",
   "url": "https://github.com",
   "baseUrl": "/portfolio/",
@@ -32,58 +32,13 @@ export default {
           "href": "https://drive.google.com/file/d/1ui81pGcaMe3-oVA-w57roe4YxnonUmlC/view?usp=sharing",
           "label": "Resume",
           "position": "right"
-        },
-        {
-          "href": "https://github.com/mr7brown",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
       "style": "dark",
-      "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Portfolio",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
-        }
-      ],
+      "links": [],
       "copyright": "Copyright © 2023 Bhavya Suri"
     },
     "prism": {

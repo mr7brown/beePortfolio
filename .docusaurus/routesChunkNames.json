@@ -186,13 +186,6 @@
     },
     "tags": "tags---portfolio-docs-tags-559-b75"
   },
-  "/portfolio/docs/tags/account-configuration-64e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
-    },
-    "tag": "tag---portfolio-docs-tags-account-configuration-8-df-1c8"
-  },
   "/portfolio/docs/tags/adobe-illustrator-fb5": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
@@ -241,13 +234,6 @@
       "plugin": "plugin---portfolio-docs-tagsfe-1-235"
     },
     "tag": "tag---portfolio-docs-tags-data-analytics-0-d-2-8e2"
-  },
-  "/portfolio/docs/tags/data-science-3a8": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
-    },
-    "tag": "tag---portfolio-docs-tags-data-science-21-e-a0a"
   },
   "/portfolio/docs/tags/data-visualization-ad8": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
@@ -340,13 +326,6 @@
     },
     "tag": "tag---portfolio-docs-tags-sdk-247-6ac"
   },
-  "/portfolio/docs/tags/unix-e7e": {
-    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
-    "__context": {
-      "plugin": "plugin---portfolio-docs-tagsfe-1-235"
-    },
-    "tag": "tag---portfolio-docs-tags-unix-906-0bf"
-  },
   "/portfolio/docs/tags/vs-code-df9": {
     "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
     "__context": {
@@ -361,84 +340,64 @@
     },
     "content": "content---portfolio-markdown-page-393-99e"
   },
-  "/portfolio/docs-ea0": {
+  "/portfolio/docs-100": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---portfolio-docs-tagsfe-1-235"
     },
     "versionMetadata": "versionMetadata---portfolio-docs-935-613"
   },
-  "/portfolio/docs/Developer/Assistant-SDK/developer-account-306": {
+  "/portfolio/docs/Articles/MSDietaryJourney-8d1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-assistant-sdk-developer-account-3-ea-b50"
+    "content": "content---portfolio-docs-articles-ms-dietary-journeybcb-cb5"
   },
-  "/portfolio/docs/Developer/Assistant-SDK/hardware-and-network-3ae": {
+  "/portfolio/docs/Articles/MSFallFeasting-230": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-assistant-sdk-hardware-and-networkac-4-bc2"
+    "content": "content---portfolio-docs-articles-ms-fall-feasting-565-1af"
   },
-  "/portfolio/docs/Developer/Assistant-SDK/install-sdk-13f": {
+  "/portfolio/docs/Articles/MSNextAdventure-98c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-assistant-sdk-install-sdk-3-cd-284"
+    "content": "content---portfolio-docs-articles-ms-next-adventure-06-c-af2"
   },
-  "/portfolio/docs/Developer/Assistant-SDK/register-device-189": {
+  "/portfolio/docs/Articles/MSSpecialistsPartinCare-512": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-assistant-sdk-register-device-2-bb-72c"
+    "content": "content---portfolio-docs-articles-ms-specialists-partin-carec-8-d-e1b"
   },
-  "/portfolio/docs/Developer/Assistant-SDK/run-sample-code-2a5": {
+  "/portfolio/docs/Articles/MSStem-297": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-assistant-sdk-run-sample-code-3-ce-bfc"
+    "content": "content---portfolio-docs-articles-ms-stema-49-fd2"
   },
-  "/portfolio/docs/Developer/Git/advanced-git-726": {
+  "/portfolio/docs/Articles/MSTravel-1d0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-git-advanced-gitdf-0-da9"
-  },
-  "/portfolio/docs/Developer/Git/git-setup-213": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-git-git-setupd-02-82c"
-  },
-  "/portfolio/docs/Developer/Git/gitlab-800": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-git-gitlab-79-b-a45"
-  },
-  "/portfolio/docs/Developer/Git/master-git-385": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-git-master-gitb-9-f-0a7"
-  },
-  "/portfolio/docs/Developer/release-notes-11b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-developer-release-notes-436-99b"
+    "content": "content---portfolio-docs-articles-ms-travel-61-a-adb"
   },
   "/portfolio/docs/intro-b23": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---portfolio-docs-intro-0-e-3-586"
   },
-  "/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021-b8d": {
+  "/portfolio/docs/Studies/commonVirus-374": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-product-2-prime-day-strategies-used-by-top-performers-in-2021-a-6-c-bf9"
+    "content": "content---portfolio-docs-studies-common-virus-59-f-8a2"
   },
-  "/portfolio/docs/Product/cross-category-ads-cc5": {
+  "/portfolio/docs/Studies/GERD-e03": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-product-cross-category-ads-2-b-1-c2f"
+    "content": "content---portfolio-docs-studies-ger-db-1-e-3ca"
   },
-  "/portfolio/docs/Product/multichannel-investment-f62": {
+  "/portfolio/docs/Studies/IllnessPerceptions-2ac": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-product-multichannel-investment-1-c-5-87b"
+    "content": "content---portfolio-docs-studies-illness-perceptions-427-2f2"
   },
-  "/portfolio/docs/Specifications/HBO-SDR_Spec-005": {
+  "/portfolio/docs/Studies/mappingandAblation-487": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-specifications-hbo-sdr-spec-83-d-a4c"
+    "content": "content---portfolio-docs-studies-mappingand-ablation-727-f1f"
   },
-  "/portfolio/docs/Specifications/media-manifest-core-880": {
+  "/portfolio/docs/Studies/msPregnancy-1d6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-specifications-media-manifest-coref-4-b-df6"
+    "content": "content---portfolio-docs-studies-ms-pregnancy-1-b-7-5ee"
   },
-  "/portfolio/docs/Visuals/fb-business-model-35e": {
+  "/portfolio/docs/Studies/StudyMSRisk-d92": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-visuals-fb-business-model-89-b-682"
-  },
-  "/portfolio/docs/Visuals/small-kitchen-appliance-c1c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---portfolio-docs-visuals-small-kitchen-appliance-62-b-593"
+    "content": "content---portfolio-docs-studies-study-ms-risk-7-a-2-7ea"
   },
   "/portfolio/-87b": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

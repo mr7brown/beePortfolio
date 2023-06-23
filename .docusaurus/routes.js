@@ -98,11 +98,6 @@ export default [
     exact: true
   },
   {
-    path: '/portfolio/docs/tags/account-configuration',
-    component: ComponentCreator('/portfolio/docs/tags/account-configuration', '64e'),
-    exact: true
-  },
-  {
     path: '/portfolio/docs/tags/adobe-illustrator',
     component: ComponentCreator('/portfolio/docs/tags/adobe-illustrator', 'fb5'),
     exact: true
@@ -135,11 +130,6 @@ export default [
   {
     path: '/portfolio/docs/tags/data-analytics',
     component: ComponentCreator('/portfolio/docs/tags/data-analytics', 'b2e'),
-    exact: true
-  },
-  {
-    path: '/portfolio/docs/tags/data-science',
-    component: ComponentCreator('/portfolio/docs/tags/data-science', '3a8'),
     exact: true
   },
   {
@@ -208,11 +198,6 @@ export default [
     exact: true
   },
   {
-    path: '/portfolio/docs/tags/unix',
-    component: ComponentCreator('/portfolio/docs/tags/unix', 'e7e'),
-    exact: true
-  },
-  {
     path: '/portfolio/docs/tags/vs-code',
     component: ComponentCreator('/portfolio/docs/tags/vs-code', 'df9'),
     exact: true
@@ -224,65 +209,41 @@ export default [
   },
   {
     path: '/portfolio/docs',
-    component: ComponentCreator('/portfolio/docs', 'ea0'),
+    component: ComponentCreator('/portfolio/docs', '100'),
     routes: [
       {
-        path: '/portfolio/docs/Developer/Assistant-SDK/developer-account',
-        component: ComponentCreator('/portfolio/docs/Developer/Assistant-SDK/developer-account', '306'),
+        path: '/portfolio/docs/Articles/MSDietaryJourney',
+        component: ComponentCreator('/portfolio/docs/Articles/MSDietaryJourney', '8d1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Developer/Assistant-SDK/hardware-and-network',
-        component: ComponentCreator('/portfolio/docs/Developer/Assistant-SDK/hardware-and-network', '3ae'),
+        path: '/portfolio/docs/Articles/MSFallFeasting',
+        component: ComponentCreator('/portfolio/docs/Articles/MSFallFeasting', '230'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Developer/Assistant-SDK/install-sdk',
-        component: ComponentCreator('/portfolio/docs/Developer/Assistant-SDK/install-sdk', '13f'),
+        path: '/portfolio/docs/Articles/MSNextAdventure',
+        component: ComponentCreator('/portfolio/docs/Articles/MSNextAdventure', '98c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Developer/Assistant-SDK/register-device',
-        component: ComponentCreator('/portfolio/docs/Developer/Assistant-SDK/register-device', '189'),
+        path: '/portfolio/docs/Articles/MSSpecialistsPartinCare',
+        component: ComponentCreator('/portfolio/docs/Articles/MSSpecialistsPartinCare', '512'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Developer/Assistant-SDK/run-sample-code',
-        component: ComponentCreator('/portfolio/docs/Developer/Assistant-SDK/run-sample-code', '2a5'),
+        path: '/portfolio/docs/Articles/MSStem',
+        component: ComponentCreator('/portfolio/docs/Articles/MSStem', '297'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Developer/Git/advanced-git',
-        component: ComponentCreator('/portfolio/docs/Developer/Git/advanced-git', '726'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/portfolio/docs/Developer/Git/git-setup',
-        component: ComponentCreator('/portfolio/docs/Developer/Git/git-setup', '213'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/portfolio/docs/Developer/Git/gitlab',
-        component: ComponentCreator('/portfolio/docs/Developer/Git/gitlab', '800'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/portfolio/docs/Developer/Git/master-git',
-        component: ComponentCreator('/portfolio/docs/Developer/Git/master-git', '385'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/portfolio/docs/Developer/release-notes',
-        component: ComponentCreator('/portfolio/docs/Developer/release-notes', '11b'),
+        path: '/portfolio/docs/Articles/MSTravel',
+        component: ComponentCreator('/portfolio/docs/Articles/MSTravel', '1d0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -293,44 +254,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021',
-        component: ComponentCreator('/portfolio/docs/Product/2 Prime Day Strategies used by Top Performers in 2021', 'b8d'),
+        path: '/portfolio/docs/Studies/commonVirus',
+        component: ComponentCreator('/portfolio/docs/Studies/commonVirus', '374'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Product/cross-category-ads',
-        component: ComponentCreator('/portfolio/docs/Product/cross-category-ads', 'cc5'),
+        path: '/portfolio/docs/Studies/GERD',
+        component: ComponentCreator('/portfolio/docs/Studies/GERD', 'e03'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Product/multichannel-investment',
-        component: ComponentCreator('/portfolio/docs/Product/multichannel-investment', 'f62'),
+        path: '/portfolio/docs/Studies/IllnessPerceptions',
+        component: ComponentCreator('/portfolio/docs/Studies/IllnessPerceptions', '2ac'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Specifications/HBO-SDR_Spec',
-        component: ComponentCreator('/portfolio/docs/Specifications/HBO-SDR_Spec', '005'),
+        path: '/portfolio/docs/Studies/mappingandAblation',
+        component: ComponentCreator('/portfolio/docs/Studies/mappingandAblation', '487'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Specifications/media-manifest-core',
-        component: ComponentCreator('/portfolio/docs/Specifications/media-manifest-core', '880'),
+        path: '/portfolio/docs/Studies/msPregnancy',
+        component: ComponentCreator('/portfolio/docs/Studies/msPregnancy', '1d6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/portfolio/docs/Visuals/fb-business-model',
-        component: ComponentCreator('/portfolio/docs/Visuals/fb-business-model', '35e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/portfolio/docs/Visuals/small-kitchen-appliance',
-        component: ComponentCreator('/portfolio/docs/Visuals/small-kitchen-appliance', 'c1c'),
+        path: '/portfolio/docs/Studies/StudyMSRisk',
+        component: ComponentCreator('/portfolio/docs/Studies/StudyMSRisk', 'd92'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

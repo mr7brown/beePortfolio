@@ -1,0 +1,46 @@
+{
+  "unversionedId": "Studies/GERD",
+  "id": "Studies/GERD",
+  "title": "Gastroesophageal Reflux Disease and Treatments",
+  "description": "Here is a link to the published article on Amazon's Advertising site.",
+  "source": "@site/docs/Studies/GERD.md",
+  "sourceDirName": "Studies",
+  "slug": "/Studies/GERD",
+  "permalink": "/portfolio/docs/Studies/GERD",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Studies/GERD.md",
+  "tags": [
+    {
+      "label": "Data Analytics",
+      "permalink": "/portfolio/docs/tags/data-analytics"
+    },
+    {
+      "label": "Amazon",
+      "permalink": "/portfolio/docs/tags/amazon"
+    },
+    {
+      "label": "Advertising",
+      "permalink": "/portfolio/docs/tags/advertising"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Gastroesophageal Reflux Disease and Treatments",
+    "sidebar_position": 0,
+    "tags": [
+      "Data Analytics",
+      "Amazon",
+      "Advertising"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Life with MS—Where Are You Traveling Next?",
+    "permalink": "/portfolio/docs/Articles/MSTravel"
+  },
+  "next": {
+    "title": "Measuring the effect of illness perceptions on caregivers",
+    "permalink": "/portfolio/docs/Studies/IllnessPerceptions"
+  }
+}

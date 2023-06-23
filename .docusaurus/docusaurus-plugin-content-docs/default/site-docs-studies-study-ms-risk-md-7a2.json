@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Studies/StudyMSRisk",
+  "id": "Studies/StudyMSRisk",
+  "title": "Study IDs key factor that shapes MS risk",
+  "description": "Scientists have discovered a key determinant of the risk for multiple sclerosis, advancing efforts to prevent and better treat the disease. These new insights into how the immune system functions, or should function, help doctors and scientists better understand the underlying causes of MS and give them attractive targets in their efforts to develop new treatments and preventive measures.",
+  "source": "@site/docs/Studies/StudyMSRisk.md",
+  "sourceDirName": "Studies",
+  "slug": "/Studies/StudyMSRisk",
+  "permalink": "/portfolio/docs/Studies/StudyMSRisk",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Studies/StudyMSRisk.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Study IDs key factor that shapes MS risk",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gene networks point to MS dampening effect during pregnancy",
+    "permalink": "/portfolio/docs/Studies/msPregnancy"
+  },
+  "next": {
+    "title": "New study explains how a common virus can cause MS",
+    "permalink": "/portfolio/docs/Studies/commonVirus"
+  }
+}

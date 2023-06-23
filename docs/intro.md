@@ -28,9 +28,9 @@ tags:
 
 # Welcome to Bhavya's Portfolio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique venenatis dolor, eget fermentum metus vehicula a. Aliquam eu ultrices urna. Maecenas interdum lobortis purus, nec dignissim lacus tincidunt vel. Donec hendrerit tellus eget tempor euismod. Fusce auctor mi vel erat aliquam, in facilisis urna luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean bibendum sollicitudin elit, a pharetra ex condimentum ac.
+With a strong background in medical writing and research, I have successfully contributed to publications, including research articles, educational materials, and clinical studies, all resulting in increased visibility for organizations and foundations. My skills encompass learning module development, grant writing, and project management, allowing me to provide comprehensive support throughout the publication process. With an in-depth knowledge of regulatory affairs, clinical trial protocols, and medical terminology, I am committed to delivering high-quality, accurate, and impactful scientific content.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique venenatis dolor, eget fermentum metus vehicula a. Aliquam eu ultrices urna. Maecenas interdum lobortis purus, nec dignissim lacus tincidunt vel. Donec hendrerit tellus eget tempor euismod. Fusce auctor mi vel erat aliquam, in facilisis urna luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean bibendum sollicitudin elit, a pharetra ex condimentum ac.
+This portfolio contains examples of content I've developed over the past decade. To navigate the site, either use the sidebar navigation or the tags below to be directed to samples grouped by category.
 
 <!-- ## Site Navigation
 

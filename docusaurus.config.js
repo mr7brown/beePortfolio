@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Bhavya Suri | Tech Writing Portfolio",
+  title: "Bhavya Suri | Portfolio",
   tagline:
-    "For the past decade, I've published technical documentation—from API & SDK docs to specifications & product documentation. And everything in-between. Here is a collection of my most impactful work.",
+    " As a versatile and accomplished medical writer, I bring expertise in various writing styles, from highly scientific research manuscripts to clinical practice guidelines, media-focused pieces, and more. With a solid understanding of medicine and clinical agent administration, I am adept at guiding scientific work creation and collaborating with volunteer leaders and medical writing teams.",
   favicon: "img/favicon.ico",
   url: "https://github.com",
   baseUrl: "/portfolio/", // Update baseURL to Github path.
@@ -69,56 +69,56 @@ const config = {
             label: "Resume",
             position: "right",
           },
-          {
-            href: "https://github.com/mr7brown", // Update URL to Github profile.
-            label: "GitHub",
-            position: "right",
-          },
+          // {
+          //   href: "https://github.com/mr7brown", // Update URL to Github profile.
+          //   label: "GitHub",
+          //   position: "right",
+          // },
         ],
       },
       // Update footer to match appropriate external links
       footer: {
         style: "dark",
         links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Portfolio",
-                to: "/docs/intro",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
-              },
-            ],
-          },
+          // {
+          //   title: "Docs",
+          //   items: [
+          //     {
+          //       label: "Portfolio",
+          //       to: "/docs/intro",
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: "Community",
+          //   items: [
+          //     {
+          //       label: "Stack Overflow",
+          //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
+          //     },
+          //     {
+          //       label: "Discord",
+          //       href: "https://discordapp.com/invite/docusaurus",
+          //     },
+          //     {
+          //       label: "Twitter",
+          //       href: "https://twitter.com/docusaurus",
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: "More",
+          //   items: [
+          //     {
+          //       label: "Blog",
+          //       to: "/blog",
+          //     },
+          //     {
+          //       label: "GitHub",
+          //       href: "https://github.com/facebook/docusaurus",
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Bhavya Suri`,
       },

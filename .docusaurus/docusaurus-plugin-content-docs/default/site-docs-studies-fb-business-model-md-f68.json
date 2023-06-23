@@ -1,0 +1,52 @@
+{
+  "unversionedId": "Studies/fb-business-model",
+  "id": "Studies/fb-business-model",
+  "title": "Overview",
+  "description": "For this visual, I was the sole author. I worked with with internal business teams to determine the leadership and goals of the three businesses within the Small-medium Business Model at Facebook.",
+  "source": "@site/docs/Studies/fb-business-model.md",
+  "sourceDirName": "Studies",
+  "slug": "/Studies/fb-business-model",
+  "permalink": "/portfolio/docs/Studies/fb-business-model",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Studies/fb-business-model.md",
+  "tags": [
+    {
+      "label": "Infographic",
+      "permalink": "/portfolio/docs/tags/infographic"
+    },
+    {
+      "label": "Data Visualization",
+      "permalink": "/portfolio/docs/tags/data-visualization"
+    },
+    {
+      "label": "Adobe InDesign",
+      "permalink": "/portfolio/docs/tags/adobe-in-design"
+    },
+    {
+      "label": "Adobe Illustrator",
+      "permalink": "/portfolio/docs/tags/adobe-illustrator"
+    },
+    {
+      "label": "Facebook",
+      "permalink": "/portfolio/docs/tags/facebook"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "Facebook Business Development Model",
+    "sidebar_position": 1,
+    "tags": [
+      "Infographic",
+      "Data Visualization",
+      "Adobe InDesign",
+      "Adobe Illustrator",
+      "Facebook"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UK Small Kitchen Appliances Infographic",
+    "permalink": "/portfolio/docs/Studies/small-kitchen-appliance"
+  }
+}

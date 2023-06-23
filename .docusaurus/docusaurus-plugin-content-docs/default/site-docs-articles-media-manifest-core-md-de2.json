@@ -1,0 +1,71 @@
+{
+  "unversionedId": "Articles/media-manifest-core",
+  "id": "Articles/media-manifest-core",
+  "title": "HBO Media Manifest Core",
+  "description": "The purpose of this document is to document and define WarnerMedia's requirements for the successful delivery of content and technical metadata using MovieLabs Media Manifest Core (MMC).",
+  "source": "@site/docs/Articles/media-manifest-core.md",
+  "sourceDirName": "Articles",
+  "slug": "/Articles/media-manifest-core",
+  "permalink": "/portfolio/docs/Articles/media-manifest-core",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Articles/media-manifest-core.md",
+  "tags": [
+    {
+      "label": "Raspberry Pi",
+      "permalink": "/portfolio/docs/tags/raspberry-pi"
+    },
+    {
+      "label": "Git",
+      "permalink": "/portfolio/docs/tags/git"
+    },
+    {
+      "label": "Github",
+      "permalink": "/portfolio/docs/tags/github"
+    },
+    {
+      "label": "Linux",
+      "permalink": "/portfolio/docs/tags/linux"
+    },
+    {
+      "label": "Google Assistant SDK",
+      "permalink": "/portfolio/docs/tags/google-assistant-sdk"
+    },
+    {
+      "label": "VS Code",
+      "permalink": "/portfolio/docs/tags/vs-code"
+    },
+    {
+      "label": "HBO",
+      "permalink": "/portfolio/docs/tags/hbo"
+    },
+    {
+      "label": "Jenkins",
+      "permalink": "/portfolio/docs/tags/jenkins"
+    }
+  ],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "HBO Media Manifest Metadata",
+    "sidebar_position": 0,
+    "tags": [
+      "Raspberry Pi",
+      "Git",
+      "Github",
+      "Linux",
+      "Google Assistant SDK",
+      "VS Code",
+      "HBO",
+      "Jenkins"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/portfolio/docs/intro"
+  },
+  "next": {
+    "title": "Life with MS—Tech Support for your Dietary Journey",
+    "permalink": "/portfolio/docs/Articles/MSDietaryJourney"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Studies/commonVirus",
+  "id": "Studies/commonVirus",
+  "title": "New study explains how a common virus can cause MS",
+  "description": "Researchers have found further evidence for how the Epstein-Barr virus can trigger multiple sclerosis or drive disease progression. A new study shows that some individuals have antibodies against the virus that mistakenly attack a protein in the brain and spinal cord.",
+  "source": "@site/docs/Studies/commonVirus.md",
+  "sourceDirName": "Studies",
+  "slug": "/Studies/commonVirus",
+  "permalink": "/portfolio/docs/Studies/commonVirus",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Studies/commonVirus.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_label": "New study explains how a common virus can cause MS",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Study IDs key factor that shapes MS risk",
+    "permalink": "/portfolio/docs/Studies/StudyMSRisk"
+  }
+}

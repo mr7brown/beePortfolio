@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Studies/mappingandAblation",
+  "id": "Studies/mappingandAblation",
+  "title": "Mapping and Ablation an Atrial Tachycardia Determined to be Originating from the Interatrial Septal Region",
+  "description": "Case Description",
+  "source": "@site/docs/Studies/mappingandAblation.md",
+  "sourceDirName": "Studies",
+  "slug": "/Studies/mappingandAblation",
+  "permalink": "/portfolio/docs/Studies/mappingandAblation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Studies/mappingandAblation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_label": "Mapping and Ablation an Atrial Tachycardia Determined to be Originating from the Interatrial Septal Region",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Measuring the effect of illness perceptions on caregivers",
+    "permalink": "/portfolio/docs/Studies/IllnessPerceptions"
+  },
+  "next": {
+    "title": "Gene networks point to MS dampening effect during pregnancy",
+    "permalink": "/portfolio/docs/Studies/msPregnancy"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Articles/Tech-Support-Dietary-Journey",
+  "id": "Articles/Tech-Support-Dietary-Journey",
+  "title": "Tech Support for your Dietary Journey",
+  "description": "Eighty-four percent of the people in America own a smartphone, while 78 percent own a laptop or desktop. With all the technology available at our fingertips, it is hard not to think of all the ways we can use it for our benefit.",
+  "source": "@site/docs/Articles/Tech-Support-Dietary-Journey.md",
+  "sourceDirName": "Articles",
+  "slug": "/Articles/Tech-Support-Dietary-Journey",
+  "permalink": "/portfolio/docs/Articles/Tech-Support-Dietary-Journey",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Articles/Tech-Support-Dietary-Journey.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Life with MS—Tech Support for your Dietary Journey",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Life with MS—Tech Support for your Dietary Journey",
+    "permalink": "/portfolio/docs/Articles/MSTravel"
+  },
+  "next": {
+    "title": "Gastroesophageal Reflux Disease and Treatments",
+    "permalink": "/portfolio/docs/Google-Trends/GERD"
+  }
+}
