@@ -1,6 +1,6 @@
 ---
 sidebar_label: "New study explains how a common virus can cause MS"
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # New study explains how a common virus can cause MS
